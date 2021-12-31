@@ -43,3 +43,47 @@ claim
 - claim- 叫喊 → claim
 来自 PIE * kele, 叫，呼喊，词源同 call,clamor.
 charger
+conversation
+对话
+community
+社区
+词根词缀： com- 共同 + -mun- 公共 + -ity 名词词尾
+components
+container
+容器集装箱
+commit
+词根词缀： com- 共同 + -mit- 送 , 派 → 放在一起 , 一起送
+convention
+(某一职业、政党等的人士召开的)大会；习俗，惯例；协议，协定
+词根词缀： con- 共同 + -vent- 来 + -ion 名词词尾
+cursor
+column
+圆柱、柱子、列
+它的词根 col 表“突出”， -u- 为连接字母， -mn 为名词后缀，相当于 -men 。记住这个词的关键是把握住其词根的意思，由“突出”引申为“突出的物体”，那就是柱子了。可用它串记同源词 excel （优于，胜过）， ex 表“向外”， cel 即“突出”，“比别人突出”即“胜过”。
+component
+词根词缀： com- 共同 + -pon- 放置 + -ent 名词词尾
+compile 汇编
+词根词缀： com- 共同 + pil 堆积 + -e
+console
+控制台
+con-, 强调。 -sol, 整体，词源同 solid. 即构成一个整体的，整体控制的工具。
+Conference
+讨论会，(正式)会议
+词根词缀： con- 一起 + -fer- 携带 , 拿取 + -ence 名词词尾 → 把意见等拿到一起来 → 会议
+construction
+catch
+来自词根 capt, 抓，拿，握，构成 chase 的对词，词源同 captive
+- cap- 拿 , 取 → catch
+category
+分类
+词根词缀： cat- 相反 , 反对 + egory 公共集会
+contract
+['kɒntrækt] 合同
+词根词缀： con- 共同 + -tract- 拉 , 引 → 相互牵扯 , 拉到一起来
+common
+普通，公共
+词根词缀： com- 共同 + -mon- 公共
+common hero 平民英雄
+common sense 常识
+contribution
+词根词缀： con- 加强意义 + -tribut- 交给 + -ion 名词词尾

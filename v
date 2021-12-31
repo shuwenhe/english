@@ -9,3 +9,7 @@ video
 vault
  /vɔːlt/
  保险库
+vocabulary 
+词根词缀： -voc- 声音 , 叫喊 + abul + -ary 名词词尾
+variant
+['veriənt]变量
