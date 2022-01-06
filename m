@@ -24,3 +24,6 @@ mustache
 must
 ache
 来自意大利语 mostaccio, 来自希腊语 mastax, 嘴，颌，来自 PIE * mendh, 咀嚼，词源同 mouth,masticate. 引申词义胡子。
+mutil
+merchant
+mutil-merchant
