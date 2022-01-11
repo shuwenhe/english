@@ -57,3 +57,6 @@ example 例子
 entity
 实体
 ent-, 存在，来自拉丁文 esse 的现在分词， is 的原型，词源同 essence, absent.
+etc
+and so on
+等等
