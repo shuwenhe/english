@@ -10,3 +10,7 @@ literal
 词根词缀： -liter- 文字 , 字母 + -al
 local
 词根词缀： -loc- 位置 + -al 形容词词尾
+lib
+动态链接库
+windows下的dll
+library
