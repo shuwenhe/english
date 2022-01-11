@@ -25,3 +25,7 @@ board：[bɔːd]  n. 木板，膳食，董事会，甲板 vt. 上（船、火车
 boarding：[bɔːdɪŋ]  adj. 寄宿的，供膳的
 onboard： adv. 在船上，在飞机上 adj. 随车携带的，机载的
 aboard： adv. 在船上，在火车上，在飞机上 prep. 在……上
+bin
+系统命令,可执行文件
+binary
+二进制

@@ -47,3 +47,6 @@ deinitely
 disclosure
 揭发，透漏，公开
 词根词缀： dis- 否定 + -clos- 关 , 闭 + -ure 名词词尾
+dev
+设备文件
+device
