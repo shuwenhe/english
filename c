@@ -1,3 +1,7 @@
+compose
+/kəmˈpəʊz/
+组成
+
 confirm
 词根词缀： con- 加强意义 + -firm- 巩固 , 确定
 remote
