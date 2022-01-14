@@ -1,3 +1,6 @@
+performance
+/pəˈfɔːm(ə)ns/
+性能
 private	
 /ˈpraɪvət/
 私有的
