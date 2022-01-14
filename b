@@ -1,3 +1,7 @@
+beaver
+/ˈbiːvə/
+海狸
+dbeaver
 Backup
 bucket
 browser

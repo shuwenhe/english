@@ -1,3 +1,6 @@
+replacement
+ /rɪˈpleɪsmənt/
+替代
 recursion
 词根词缀： re-, 向后，往回 + -curs- 流 , 跑 + -ion 名词词尾
 reverse
