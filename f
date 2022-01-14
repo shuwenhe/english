@@ -1,3 +1,12 @@
+france
+法国
+french
+old french
+古法语
+old french song
+古法语歌
+french revolution
+法国大革命
 feature
 特征
 词根词缀： -feat- 做 , 作 + -ure 名词词尾
