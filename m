@@ -1,4 +1,6 @@
 multi
+/ˈmʌlti/
+more than one; many.
 multi-platform
 maintenance
 manager
