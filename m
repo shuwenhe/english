@@ -1,3 +1,6 @@
+migrate
+ /maɪˈɡreɪt/
+ 迁移
 mid
 matrix
 矩阵

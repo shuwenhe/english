@@ -1,3 +1,6 @@
+beacon
+/ˈbiːkən
+灯塔
 beaver
 /ˈbiːvə/
 海狸

@@ -1,3 +1,5 @@
+pluggable
+hot-pluggable
 Pre-processing
 预处理 
 Physical and Chemical Treatment

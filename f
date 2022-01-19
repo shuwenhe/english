@@ -1,3 +1,6 @@
+fantastic
+ /fænˈtæstɪk/ 
+ 极好的，非常棒的,了不起的
 france
 法国
 french
