@@ -1,3 +1,6 @@
+mid
+matrix
+矩阵
 multi
 /ˈmʌlti/
 more than one; many.

@@ -1,3 +1,5 @@
+Incineration
+焚烧 
 iterate
 iteration
 invent

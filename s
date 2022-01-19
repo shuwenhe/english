@@ -1,3 +1,5 @@
+sqrt
+开平方根（square root）
 scholar
 /ˈskɒlə(r)/
 词根词缀： schol 学校 + -ar 名词词尾

@@ -1,3 +1,5 @@
+row
+行
 replacement
  /rɪˈpleɪsmənt/
 替代

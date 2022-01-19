@@ -1,5 +1,8 @@
+Pre-processing
+预处理 
+Physical and Chemical Treatment
+物化 
 perform
-
 performance
 /pəˈfɔːm(ə)ns/
 性能
