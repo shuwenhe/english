@@ -1,3 +1,5 @@
+prize
+price
 pluggable
 hot-pluggable
 Pre-processing

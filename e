@@ -1,3 +1,4 @@
+enumerated
 expend
 花费
 词根词缀： ex- 出 , 向外 + -pend- 支付
