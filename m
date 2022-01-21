@@ -1,3 +1,6 @@
+module
+ /ˈmɒdjuːl/
+ 组件、模块
 migrate
  /maɪˈɡreɪt/
  迁移

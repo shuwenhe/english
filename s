@@ -1,3 +1,10 @@
+secret
+['si:krit] 秘密
+词根词缀： se- 分离 + cret ( -cern- )区分 → 与其它的信息区分开→避让→机密
+sign
+signature
+['sɪɡnətʃər] 签名
+词根词缀： -sign- 标记 + -ate 动词词尾( e 略) + -ure 名词词尾
 satisfy
 sqrt
 开平方根（square root）
@@ -51,12 +58,6 @@ support
 词根词缀： sup- 由下向上 + -port- 运输 , 携带
 summarize
 词根词缀： -sum- 最高 , 总( m 双写) + -ary 形容词词尾( y 因和后面的 i 发音重复而略) + -ize 动词词尾
-signature
-['sɪɡnətʃər] 签名
-词根词缀： -sign- 标记 + -ate 动词词尾( e 略) + -ure 名词词尾
-secret
-[ˈsiːkrət] 秘密
-词根词缀： se- 分离 + cret ( -cern- )区分 → 与其它的信息区分开→避让→机密
 Service
 serve
 服务
