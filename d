@@ -1,5 +1,6 @@
+deploy
+部署
 dec
-
 diff
 disclaim
 词根词缀： dis- 否定 , 相反 + -claim- 叫喊 → 不再讲话
