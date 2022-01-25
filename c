@@ -1,3 +1,6 @@
+calendar
+ /ˈkælɪndə(r)/
+日历
 col
 列
 Compatibility

@@ -1,3 +1,6 @@
+invite
+/ɪnˈvaɪt/
+邀请
 Incineration
 焚烧 
 iterate
