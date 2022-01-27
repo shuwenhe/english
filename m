@@ -1,3 +1,8 @@
+mosca
+苍蝇
+mosquito
+蚊子的体型通常很小，因此在古代西班牙语中被称为mosquito，是 mosca （飞虫）的指小形式，字面意思就是“小飞虫”。英语单词 mosquito 就直接来自西班牙语。
+来自西班牙语 mosca, 蚊子， -ito, 小词后缀，来自拉丁语 musca, 蚊子，来自 PIE * mu, 蚊子，拟声词，模仿蚊子嗡嗡的声音，词源同 moth,midge.
 module
  /ˈmɒdjuːl/
  组件、模块
