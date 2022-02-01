@@ -1,3 +1,6 @@
+mathematician
+[ˌmæθəməˈtɪʃn]
+来自 mathematics, 数学， -ian, 人。即搞数学的人，数学家
 mosca
 苍蝇
 mosquito
