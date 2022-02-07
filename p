@@ -1,3 +1,6 @@
+prometheus
+词根:pro先,前
+先知先觉者
 prize
 price
 pluggable
