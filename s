@@ -1,3 +1,6 @@
+solar
+[ˈsəʊlə(r)]
+词根词缀： -sol- 太阳 + -ar 形容词词尾
 secret
 ['si:krit] 秘密
 词根词缀： se- 分离 + cret ( -cern- )区分 → 与其它的信息区分开→避让→机密
