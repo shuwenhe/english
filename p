@@ -1,7 +1,11 @@
+permit
+允许许可
+词根词缀： per- 贯穿 + -mit- 送 , 派
+per-, 通过， -mit, 离开，送出，词源同 emit,mission.
 permission
 /pəˈmɪʃn/ 
 权限
-词根词缀： per- 贯穿 + -miss- 送 , 派 + -ion 名词词尾
+词根词缀： per- 通过 + -miss- 送 , 派 + -ion 名词词尾
 prometheus
 词根:pro先,前
 先知先觉者
@@ -55,10 +59,6 @@ paginate
 pagination
 分页	
 parsing
-permit
-允许许可
-词根词缀： per- 贯穿 + -mit- 送 , 派
-per-, 通过， -mit, 离开，送出，词源同 emit,mission.
 purchase
 ['pɜː(r)tʃəs]采购
 pur-, 向前，在前， chase, 追逐。引申词义得到，获得，握紧，抓牢，后用于指采购，购买
