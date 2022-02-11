@@ -1,3 +1,6 @@
+personnel
+/pəːsəˈnɛl/
+人员,职员
 permit
 允许许可
 词根词缀： per- 贯穿 + -mit- 送 , 派
