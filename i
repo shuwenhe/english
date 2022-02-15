@@ -1,3 +1,5 @@
+inventor
+
 invite
 /ɪnˈvaɪt/
 邀请
