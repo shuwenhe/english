@@ -1,5 +1,8 @@
+interview
+面试
+词根词缀： inter- 中间 , 之间 , 相互 + view ( -vid- )看见
+interview questions 面试问题
 inventor
-
 invite
 /ɪnˈvaɪt/
 邀请
