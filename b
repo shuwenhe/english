@@ -1,3 +1,5 @@
+bucket
+
 beacon
 /ˈbiːkən
 灯塔
@@ -6,7 +8,6 @@ beaver
 海狸
 dbeaver
 Backup
-bucket
 browser
 broadcast
 广播
