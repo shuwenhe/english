@@ -1,3 +1,5 @@
+cost
+low cost低成本
 calendar
  /ˈkælɪndə(r)/
 日历
