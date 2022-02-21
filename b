@@ -1,5 +1,4 @@
 bucket
-
 beacon
 /ˈbiːkən
 灯塔

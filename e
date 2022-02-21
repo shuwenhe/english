@@ -1,3 +1,6 @@
+experience
+经验
+词根词缀： ex- 出 + -peri- 试验 , 尝试 + -ence → 通过试验或尝试得出来的东西
 enumerated
 expend
 花费
