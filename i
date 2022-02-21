@@ -1,3 +1,5 @@
+internal
+来自 in 的比较级，即更里面的，内部的。
 interview
 面试
 词根词缀： inter- 中间 , 之间 , 相互 + view ( -vid- )看见

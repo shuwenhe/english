@@ -1,4 +1,6 @@
 region
+地域
+词根词缀： -reg- 统治 + -ion 名词词尾 → 统治领域 , 领地
 row
 行
 replacement
