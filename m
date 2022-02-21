@@ -1,3 +1,4 @@
+
 mathematician
 [ˌmæθəməˈtɪʃn]
 来自 mathematics, 数学， -ian, 人。即搞数学的人，数学家
@@ -23,6 +24,8 @@ maintenance
 manager
 经理
 词根词缀： -man- 手 + ag + -er 人
+management
+document management system
 modify
 修改
 词根词缀： -mod- 量器 + -i- + -fy 动词词尾

@@ -1,7 +1,7 @@
 reliability
  /rɪˌlaɪəˈbɪləti/ 
 词根词缀： re- 再,回 + -li- 捆 + -ability 名词词尾 , 性状
-ability能力
+ability 能力
 high reliability
 高可靠
 region
