@@ -1,3 +1,5 @@
+see
+I see it
 solar
 [ˈsəʊlə(r)]
 词根词缀： -sol- 太阳 + -ar 形容词词尾
