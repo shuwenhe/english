@@ -1,3 +1,7 @@
+folder
+/ˈfəʊldə(r)/
+文件夹
+folder -> older /əʊldə/
 fantastic
  /fænˈtæstɪk/ 
  极好的，非常棒的,了不起的

@@ -1,4 +1,5 @@
-
+millisecond
+ms毫秒 1秒=1000毫秒
 mathematician
 [ˌmæθəməˈtɪʃn]
 来自 mathematics, 数学， -ian, 人。即搞数学的人，数学家
