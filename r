@@ -1,3 +1,6 @@
+resolve
+ /rɪˈzɒlv/ 
+ 解决
 Role Permissions
 角色
 reliability

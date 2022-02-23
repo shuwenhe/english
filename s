@@ -1,3 +1,6 @@
+scan
+eg:
+scan the QR code
 see
 I see it
 solar
