@@ -1,3 +1,9 @@
+page
+paginate
+ /ˈpædʒɪneɪt/ 
+ 来自 page, 页码， -ate, 使。
+pagination
+分页	
 personnel
 /pəːsəˈnɛl/
 人员,职员
@@ -55,12 +61,6 @@ probationary
 primary
 placeholder
 占位符
-page
-paginate
- /ˈpædʒɪneɪt/ 
- 来自 page, 页码， -ate, 使。
-pagination
-分页	
 parsing
 purchase
 ['pɜː(r)tʃəs]采购
