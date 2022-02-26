@@ -1,3 +1,7 @@
+information
+英[ˌɪnfəˈmeɪʃn] 
+美[ˌɪnfərˈmeɪʃn]
+词根词缀： in- 使 ... + -form- 形 + -ation
 internal
 来自 in 的比较级，即更里面的，内部的。
 interview
