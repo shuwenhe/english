@@ -1,8 +1,6 @@
-variant
-['veriənt]变量
 variable
 /ˈverēəb(ə)l/
-可变的，易变的，变量的
+变量（计算机）
 词根词缀： -vari- 变化 + -able 形容词词尾 , 被动意义
 vary, 改变，多变
 video
