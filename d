@@ -1,3 +1,6 @@
+daemon
+英 /ˈdiːmən/  美 /ˈdiːmən/ /ˈdēmən/
+守护进程
 deploy
 部署
 dec
