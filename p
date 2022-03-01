@@ -1,3 +1,12 @@
+port
+import
+进口
+export
+出口
+important
+重要
+进口的都是重要的
+report
 
 prior
 词根词缀： -pri- 首要 + -or 形容词词尾 , 较…的
