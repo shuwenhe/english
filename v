@@ -1,4 +1,5 @@
 version
+docker compose version 2.2.3
 eg:
 In order I help you to prepare the DEV2006 record documents, could you send me your Word versions of enclosed documents?
 为了我帮助您准备DEV2006记录文件，您能把您所附文件的Word版本发给我吗？
