@@ -4,6 +4,8 @@ matrix
 词根词缀： -matr- 母 + -ix 名词词尾
 来自拉丁语 matrix, 子宫，母体，来自 mater, 母亲。引申词义社会环境，并用于指科学术语矩阵。见电影《黑客帝国》
 铸模，模型；发源地；母体，基质；(内含宝石等的)岩石，矿脉；<数>矩阵
+eg:
+The matrix《黑客帝国》
 millisecond
 ms毫秒 1秒=1000毫秒
 mathematician
