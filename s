@@ -1,3 +1,9 @@
+subset 
+子集
+sub分支-set集
+eg:
+Deep learning is a subset of machine learning.
+and Machine learning is a subset of artificial intelligence,
 sure
 Are you sure you want to continue?
 stop
@@ -47,8 +53,6 @@ spare 备用
 Summary
 shipper
 special
-subset 
-子集
 selection
 staff
 职员
