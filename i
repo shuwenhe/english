@@ -1,3 +1,6 @@
+install
+eg:
+Install Docker Compose
 intelligence
 智力
 词根词缀： intel- 之间 , 中间 + -lig- 诵读 + -ence 名词词尾
