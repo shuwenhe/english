@@ -1,3 +1,11 @@
+require
+英 /rɪˈkwaɪə(r)/  美 /rɪˈkwaɪər/ 
+需要
+词根词缀： re- 加强意义 + -quir- 寻求 + -e
+requirement
+英 /rɪˈkwaɪəmənt/  美 /rɪˈkwaɪərmənt/
+需求
+词根词缀： re- 加强意义 + -quir- 寻求 + -e + -ment 名词词尾
 resolve
  /rɪˈzɒlv/ 
  解决
