@@ -4,7 +4,6 @@ sub分支-set集
 eg:
 Deep learning is a subset of machine learning.
 and Machine learning is a subset of artificial intelligence,
-Both machine learning and deep learning require a large amount of data to "feed", which is an application of big data technology. At the same time, deep learning also requires higher computing power support, such as GPU.
 sure
 Are you sure you want to continue?
 stop

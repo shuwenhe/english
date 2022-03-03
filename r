@@ -2,6 +2,10 @@ require
 英 /rɪˈkwaɪə(r)/  美 /rɪˈkwaɪər/ 
 需要
 词根词缀： re- 加强意义 + -quir- 寻求 + -e
+eg:
+Both deep learning and machine learning require a large amount of data to feed, 
+which is an application of big data technology. 
+At the same time, deep learning also requires higher computing power support, such as GPU.
 requirement
 英 /rɪˈkwaɪəmənt/  美 /rɪˈkwaɪərmənt/
 需求
