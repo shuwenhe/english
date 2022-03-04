@@ -60,6 +60,7 @@ shipper
 special
 selection
 staff
+英 /stɑːf/  美 /stæf/ 
 职员
 stuff
 填满，塞满，东西，物品，原料，材料
