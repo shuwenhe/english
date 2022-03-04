@@ -1,3 +1,5 @@
+invasion
+英[ɪnˈveɪʒn] 美[ɪnˈveɪʒn]
 install
 eg:
 Install Docker Compose
