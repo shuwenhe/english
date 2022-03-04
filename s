@@ -1,3 +1,8 @@
+support
+[sə'pɔrt]支持
+词根词缀： sup- 由下向上 + -port- 运输 , 携带
+eg:
+software technical support engineer
 subset 
 子集
 sub分支-set集
@@ -71,9 +76,6 @@ software
 soft, 软的， ware, 物件
 firmware 
 ['fɜrm.wer] 固件
-support
-[sə'pɔrt]支持
-词根词缀： sup- 由下向上 + -port- 运输 , 携带
 summarize
 词根词缀： -sum- 最高 , 总( m 双写) + -ary 形容词词尾( y 因和后面的 i 发音重复而略) + -ize 动词词尾
 Service
