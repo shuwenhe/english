@@ -1,3 +1,7 @@
+
+container
+英  [kənˈteɪnə(r)]   美  [kənˈteɪnər]
+n. 容器；集装箱，货柜
 command
 命令
 community
@@ -69,8 +73,6 @@ charger
 conversation
 对话
 components
-container
-容器集装箱
 commit
 词根词缀： com- 共同 + -mit- 送 , 派 → 放在一起 , 一起送
 convention
