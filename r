@@ -1,3 +1,8 @@
+rent
+英 /rent/  美 /rent/
+出租
+eg:
+rent a house
 require
 英 /rɪˈkwaɪə(r)/  美 /rɪˈkwaɪər/ 
 需要
