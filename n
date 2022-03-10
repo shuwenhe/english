@@ -1,3 +1,7 @@
+near
+eg:
+I live near the company
+
 neuralink神经链接
 number
 数字
