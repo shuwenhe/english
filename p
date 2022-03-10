@@ -5,6 +5,7 @@ patent & parent
 parent
 英 /ˈpeərənt/  美 /ˈperənt/  全球(美国) 
 父母
+parent & patent
 property
 英 /ˈprɒpəti/  美 /ˈprɑːpərti/ 
 属性、产权
