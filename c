@@ -1,3 +1,11 @@
+cancel
+英 /ˈkæns(ə)l/  美 /ˈkænsl/ 
+取消
+cancer
+英 /ˈkænsə(r)/  美 /ˈkænsər/
+癌症
+eg:
+cancel & cancer (r人得癌症)
 command
 命令
 community
