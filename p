@@ -1,3 +1,10 @@
+patent
+英 /ˈpæt(ə)nt/  美 /ˈpætnt; ˈpeɪtnt/
+专利 
+patent & parent
+parent
+英 /ˈpeərənt/  美 /ˈperənt/  全球(美国) 
+父母
 property
 英 /ˈprɒpəti/  美 /ˈprɑːpərti/ 
 属性、产权
