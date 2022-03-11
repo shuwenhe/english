@@ -68,6 +68,8 @@ stuff
 staff
 英 /stɑːf/  美 /stæf/ 
 职员
+eg:
+staff & stuff
 square
 平方
 它的前缀 s- 用于加强语气；词根 quar 来自拉丁词根 quat 、 quad ，表“四”；所以这个单词的根义是：“四”边形。掌握了它你就能很容易记住 quarter （四分之一）了。同根词还有很多： quadrangle （四边形）、 quadruped （四足动物）、 quadrant （扇形体）等。
