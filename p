@@ -1,3 +1,15 @@
+prune
+英 /pruːn/  美 /pruːn/ 
+修剪
+eg:
+docker system prune
+purge
+英 /pɜːdʒ/  美 /pɜːrdʒ/ 
+清除
+来自拉丁语 purgare, 纯化，清洗，使干净，来自 purigare, 使纯化，来自 purus, 纯的，词源同 pure,-ig, 驱动，使，做，词源同 agent,litigate.
+eg:
+purge & prune
+
 patent
 英 /ˈpæt(ə)nt/  美 /ˈpætnt; ˈpeɪtnt/
 专利 
@@ -79,9 +91,6 @@ optimize
 palindrome
 [ˈpælɪndrəʊm]
 palin-, 重，再， -drome, 跑
-purge
-清除
-来自拉丁语 purgare, 纯化，清洗，使干净，来自 purigare, 使纯化，来自 purus, 纯的，词源同 pure,-ig, 驱动，使，做，词源同 agent,litigate.
 pump
 泵
 pressure
