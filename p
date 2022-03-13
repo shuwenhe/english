@@ -1,6 +1,7 @@
 platform
 英 /ˈplætfɔːm/  美 /ˈplætfɔːrm/ 
 平台
+来自古法语 plat, 平的， form, 形成。引申词义平台，月台
 prune
 英 /pruːn/  美 /pruːn/ 
 修剪
