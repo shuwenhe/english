@@ -1,3 +1,11 @@
+enterprise
+英 /ˈentəpraɪz/  美 /ˈentərpraɪz/ 
+企业
+词根词缀： enter ( inter- )之间 + -pris- 包含 + -e
+enter-, 更里面，中间。 -prise, 拿，承担，缩写自 prehend, 词源同 apprise, comprehend. 后用来指企业，特别是具有冒险精神的，能承担风险和具有挑战精神的企业
+erp
+Enterprise Resource Planning
+企业资源计划
 edition
 edition版本:Community Edition社区版,Enterprise Edition企业版
 version版本号:安卓4.0
