@@ -1,3 +1,7 @@
+live
+英 /lɪv laɪv/  美 /lɪv laɪv/
+eg:
+I live in Beijing.
 Landfill
 填埋 
 layout
