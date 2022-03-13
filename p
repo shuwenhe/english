@@ -1,3 +1,6 @@
+platform
+英 /ˈplætfɔːm/  美 /ˈplætfɔːrm/ 
+平台
 prune
 英 /pruːn/  美 /pruːn/ 
 修剪
