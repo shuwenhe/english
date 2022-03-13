@@ -1,4 +1,6 @@
-
+clear
+清除
+英 /klɪə(r)/  美 /klɪr/ 
 crm
 Customer Relationship Management
 客户关系管理
