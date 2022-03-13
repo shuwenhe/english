@@ -1,3 +1,7 @@
+invasion
+侵略
+英[ɪnˈveɪʒn] 美[ɪnˈveɪʒn]
+词根词缀： in- 入 + -vas- 走 + -ion 名词词尾
 install
 eg:
 Install Docker Compose
