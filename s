@@ -1,3 +1,6 @@
+situation
+It is very difficult situation.
+这是非常困难的情况.
 support
 [sə'pɔrt]支持
 词根词缀： sup- 由下向上 + -port- 运输 , 携带
