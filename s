@@ -1,4 +1,8 @@
-situation
+situation 
+处境，形势，状况；场所，位置；职位，职务 
+词根词缀： situate 使坐落于 + -ion 名词词尾
+situate, 坐落于，位于， -ion, 名词后缀。引申词义环境，情况，状况，形势等
+eg:
 It is very difficult situation.
 这是非常困难的情况.
 support
@@ -113,10 +117,6 @@ start
 satisfaction
 满意，满足；(愿望的)实现；乐事，愉快 
 词根词缀： -satis- 足 , 饱 , 满 + -fact- 做 , 作 + -ion 名词词尾
-situation 
-处境，形势，状况；场所，位置；职位，职务 
-词根词缀： situate 使坐落于 + -ion 名词词尾
-situate, 坐落于，位于， -ion, 名词后缀。引申词义环境，情况，状况，形势等
 security
  /sɪˈkjʊərəti/ 
 词根词缀： se- 分离 + -cur- 关心 + -ity 名词词尾
