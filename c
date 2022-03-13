@@ -1,4 +1,7 @@
-<<<<<<< HEAD
+
+crm
+Customer Relationship Management
+客户关系管理
 cloud
 云
 eg:
@@ -14,12 +17,6 @@ cancer
 癌症
 eg:
 cancel & cancer (r人得癌症)
-=======
-
-container
-英  [kənˈteɪnə(r)]   美  [kənˈteɪnər]
-n. 容器；集装箱，货柜
->>>>>>> 8c1dd5ad64edc8edfca103f1b3cb3a4e3963c4e4
 command
 命令
 community
