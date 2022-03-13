@@ -62,6 +62,9 @@ selection
 study
 英 /ˈstʌdi/  美 /ˈstʌdi/ 
 学习
+srm
+Supplier Relationship Management
+供应商关系管理
 stuff
 英 /stʌf/  美 /stʌf/
 填满，塞满，东西，物品，原料，材料
