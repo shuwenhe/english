@@ -1,3 +1,6 @@
+plm
+Product Lifecycle Management
+产品生命周期管理
 platform
 英 /ˈplætfɔːm/  美 /ˈplætfɔːrm/ 
 平台
