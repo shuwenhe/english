@@ -1,3 +1,12 @@
+believe
+英 /bɪˈliːv/  美 /bɪˈliːv/ 
+相信
+前缀 be-, 强调。 -lieve, 爱，同 love. 因为爱所以相信
+词根词缀： be- 使 + lieve 爱 → 使爱 , 使有希望 lieve / lief 是 leave 的变体 
+lieve & leave
+eg:
+I do not believe
+我不相信
 bucket
 beacon
 /ˈbiːkən
