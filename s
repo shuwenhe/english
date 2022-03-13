@@ -2,7 +2,7 @@ situation
 处境，形势，状况；场所，位置；职位，职务 
 词根词缀： situate 使坐落于 + -ion 名词词尾
 situate, 坐落于，位于， -ion, 名词后缀。引申词义环境，情况，状况，形势等
-eg:
+eg:JJ
 It is very difficult situation.
 这是非常困难的情况.
 support
