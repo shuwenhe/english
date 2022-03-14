@@ -1,3 +1,9 @@
+profile
+英 /ˈprəʊfaɪl/  美 /ˈproʊfaɪl/
+profile & file
+eg:
+Get user profile.
+获取用户信息
 plm
 Product Lifecycle Management
 产品生命周期管理
