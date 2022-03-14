@@ -1,3 +1,7 @@
+touch
+英 /tʌtʃ/  美 /tʌtʃ/ 
+触摸
+Do not touch anything
 triples
 Temporary Storage
 暂存 
