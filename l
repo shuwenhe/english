@@ -1,3 +1,11 @@
+late
+eg:
+three days late
+迟到3天
+later
+eg:
+three days later
+三天后
 live
 英 /lɪv laɪv/  美 /lɪv laɪv/
 eg:

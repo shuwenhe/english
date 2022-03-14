@@ -1,6 +1,6 @@
 scroll
 英 /skrəʊl/  美 /skroʊl/ 
-滚动
+[计]滚动
 来自古法语 escroe, 碎片，纸卷，羊皮纸卷轴，来自 Proto-Germanic * skrauth, 碎片，来自 PIE * sker, 砍，剪，切，词源同 shear,share,shred. 引申词义画卷，卷形物等。
 eg:
 scroll body
