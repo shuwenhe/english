@@ -1,3 +1,11 @@
+page
+paginate
+ /ˈpædʒɪneɪt/ 
+ 来自 page, 页码， -ate, 使。
+pagination
+分页	
+eg:
+page & gin & ation & action
 profile
 英 /ˈprəʊfaɪl/  美 /ˈproʊfaɪl/
 profile & file
@@ -54,12 +62,6 @@ priority
 [praɪˈɔːrəti]
 词根词缀： -pri- 首要 + -or 形容词词尾 , 较…的 + -ity 名词后缀
 来自 prior, 先前的，优先的， -ity, 名词后缀。引申词义优先权。
-page
-paginate
- /ˈpædʒɪneɪt/ 
- 来自 page, 页码， -ate, 使。
-pagination
-分页	
 personnel
 /pəːsəˈnɛl/
 人员,职员

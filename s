@@ -1,3 +1,6 @@
+stack 
+eg:
+stack over flow
 scroll
 英 /skrəʊl/  美 /skroʊl/ 
 [计]滚动
