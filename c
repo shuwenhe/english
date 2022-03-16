@@ -1,3 +1,7 @@
+chat
+英 /tʃæt/  美 /tʃæt/ 
+聊天
+group chat
 clear
 清除
 英 /klɪə(r)/  美 /klɪr/ 

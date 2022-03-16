@@ -1,3 +1,7 @@
+feed
+英 /fiːd/  美 /fiːd/ 
+eg:
+news feed
 feature
 英 /ˈfiːtʃə(r)/  美 /ˈfiːtʃər/ ->飞车
 特征
