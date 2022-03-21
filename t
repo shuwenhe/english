@@ -1,3 +1,8 @@
+truncate
+英 /trʌŋˈkeɪt/  美 /ˈtrʌŋkeɪt/ 
+删除
+eg:
+truncate table
 touch
 英 /tʌtʃ/  美 /tʌtʃ/ 
 触摸
