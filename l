@@ -1,3 +1,9 @@
+learn
+英 /lɜːn/  美 /lɜːrn/
+学习
+earn
+英 /ɜːn/  美 /ɜːrn/ 
+获得
 late
 eg:
 three days late
