@@ -1,3 +1,8 @@
+task
+英 /tɑːsk/  美 /tæsk/ 
+eg:
+task manager
+任务管理器
 truncate
 英 /trʌŋˈkeɪt/  美 /ˈtrʌŋkeɪt/ 
 删除

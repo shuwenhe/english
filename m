@@ -1,3 +1,28 @@
+manager
+英 /ˈmænɪdʒə(r)/  美 /ˈmænɪdʒər/ 
+[计]管理器，经理
+词根词缀： -man- 手 + ag + -er 人
+eg:
+task manager
+任务管理器
+management
+document management system
+main
+主要部分
+manual
+词根词缀： -manu- 手 + -al
+maintain
+英 /meɪnˈteɪn/  美 /meɪnˈteɪn/ 
+v 维修
+maintenance
+英 /ˈmeɪntənəns/  美 /ˈmeɪntənəns/ 
+n 维修
+词根词缀： main ( -man- )手 + -ten- 握 , 持有 + -ance 名词词尾
+eg：
+Maintenance Engineer
+维修工程师
+Maintenance Manual
+维修手册
 matrix
 英 /ˈmeɪtrɪks/  美 /ˈmeɪtrɪks/ 
 矩阵
@@ -27,12 +52,6 @@ multi
 /ˈmʌlti/
 more than one; many.
 multi-platform
-maintenance
-manager
-经理
-词根词缀： -man- 手 + ag + -er 人
-management
-document management system
 modify
 修改
 词根词缀： -mod- 量器 + -i- + -fy 动词词尾

@@ -1,3 +1,5 @@
+forward
+转发
 feed
 英 /fiːd/  美 /fiːd/ 
 eg:
