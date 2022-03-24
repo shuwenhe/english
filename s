@@ -1,3 +1,9 @@
+simulation
+英 /ˌsɪmjuˈleɪʃ(ə)n/  美 /ˌsɪmjuˈleɪʃn/ 
+模拟
+eg:
+simulation data
+模拟数据
 stack 
 eg:
 stack over flow
