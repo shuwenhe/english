@@ -2,7 +2,7 @@ worry
 eg:
 Don't you worry.
 Don't worry about me.
-
+别担心，别担心我。
 warehouse
 词根词缀： ware 商品 , 货 + house 房子
 wisdom
