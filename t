@@ -1,3 +1,6 @@
+tell
+What more can you tell me about that?
+你还能告诉我什么吗？
 task
 英 /tɑːsk/  美 /tæsk/ 
 eg:
