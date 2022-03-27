@@ -4,6 +4,11 @@ learn
 earn
 英 /ɜːn/  美 /ɜːrn/ 
 获得
+eg:
+Don't learn what you don't want.
+不要学习不要的东西.
+Learn only what is needed.
+只学习需要的东西.
 late
 eg:
 three days late
