@@ -18,6 +18,10 @@ maintenance
 英 /ˈmeɪntənəns/  美 /ˈmeɪntənəns/ 
 n 维修
 词根词缀： main ( -man- )手 + -ten- 握 , 持有 + -ance 名词词尾
+main
+主要部分
+ten
+十
 eg：
 Maintenance Engineer
 维修工程师
