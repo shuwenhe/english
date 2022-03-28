@@ -3,6 +3,7 @@ eg:
 rent & recent
 dev had recent pushes less than a minute ago
 dev 不到一分钟前有最近的推送
+
 rent
 英 /rent/  美 /rent/
 出租
