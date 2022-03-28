@@ -1,3 +1,9 @@
+conflict
+英 /ˈkɒnflɪkt/  美 /ˈkɑːnflɪkt/ 
+冲突
+eg：
+This branch has no conflicts with the base branch.
+该分支与基础分支没有冲突.
 chat
 英 /tʃæt/  美 /tʃæt/ 
 聊天
