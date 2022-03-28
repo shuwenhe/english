@@ -1,6 +1,9 @@
+flict
+打击
 conflict
 英 /ˈkɒnflɪkt/  美 /ˈkɑːnflɪkt/ 
 冲突
+词根词缀： con- 加强意义 + -flict- 打击
 eg：
 This branch has no conflicts with the base branch.
 该分支与基础分支没有冲突.
