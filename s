@@ -1,3 +1,4 @@
+solid
 simulation
 英 /ˌsɪmjuˈleɪʃ(ə)n/  美 /ˌsɪmjuˈleɪʃn/ 
 模拟

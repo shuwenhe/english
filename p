@@ -1,3 +1,7 @@
+permission
+/pəˈmɪʃn/ 
+权限
+词根词缀： per- 通过 + -miss- 送 , 派 + -ion 名词词尾
 page
 paginate
  /ˈpædʒɪneɪt/ 
@@ -69,10 +73,6 @@ permit
 允许许可
 词根词缀： per- 贯穿 + -mit- 送 , 派
 per-, 通过， -mit, 离开，送出，词源同 emit,mission.
-permission
-/pəˈmɪʃn/ 
-权限
-词根词缀： per- 通过 + -miss- 送 , 派 + -ion 名词词尾
 prometheus
 词根:pro先,前
 先知先觉者

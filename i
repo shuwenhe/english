@@ -1,3 +1,6 @@
+instance
+英 /ˈɪnstəns/  美 /ˈɪnstəns/ 
+实例
 invasion
 侵略
 英[ɪnˈveɪʒn] 美[ɪnˈveɪʒn]

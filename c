@@ -1,3 +1,6 @@
+console
+控制台
+con-, 强调。 -sol, 整体，词源同 solid. 即构成一个整体的，整体控制的工具。
 chat
 英 /tʃæt/  美 /tʃæt/ 
 聊天
@@ -107,9 +110,6 @@ component
 词根词缀： com- 共同 + -pon- 放置 + -ent 名词词尾
 compile 汇编
 词根词缀： com- 共同 + pil 堆积 + -e
-console
-控制台
-con-, 强调。 -sol, 整体，词源同 solid. 即构成一个整体的，整体控制的工具。
 Conference
 讨论会，(正式)会议
 词根词缀： con- 一起 + -fer- 携带 , 拿取 + -ence 名词词尾 → 把意见等拿到一起来 → 会议

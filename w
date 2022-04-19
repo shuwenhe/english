@@ -1,3 +1,8 @@
+walk
+英 /wɔːk/  美 /wɔːk/
+行走
+eg:
+It takes about 5 to 10 minutes to walk to company.
 worry
 eg:
 Don't you worry.

@@ -1,3 +1,8 @@
+HMI
+Human Machine Interface
+人机界面
+china & chine & channel & chan
+handled
 hippocampus
 hippocampal region
 hazardous
