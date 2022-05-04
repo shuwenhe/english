@@ -1,3 +1,8 @@
+sale
+after-sales
+eg:
+The after-sales department must use the software as soon as possible.
+售后部门必须尽快把软件用起来。
 solid
 simulation
 英 /ˌsɪmjuˈleɪʃ(ə)n/  美 /ˌsɪmjuˈleɪʃn/ 
