@@ -1,6 +1,7 @@
 regular
 eg:
 Shall we conduct our regular this afternoon?
+Shall we do our regular activities in the afternoon?
 我们下午进行常规活动好吗？
 recent
 eg:
