@@ -1,3 +1,6 @@
+difficult
+I found it very difficult for the departments to work together.
+我发现各部门合作非常困难.
 disable 
 英 /dɪsˈeɪb(ə)l/  美 /dɪsˈeɪbl/ 
 eg:
