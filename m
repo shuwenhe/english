@@ -1,3 +1,8 @@
+multiple
+英 /ˈmʌltɪpl/  美 /ˈmʌltɪpl/
+eg:
+multiple curves
+多条曲线
 manager
 英 /ˈmænɪdʒə(r)/  美 /ˈmænɪdʒər/ 
 [计]管理器，经理
