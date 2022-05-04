@@ -1,3 +1,5 @@
+pop window
+弹窗
 permission
 /pəˈmɪʃn/ 
 权限
