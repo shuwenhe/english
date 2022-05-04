@@ -1,3 +1,7 @@
+regular
+eg:
+Shall we conduct our regular this afternoon?
+我们下午进行常规活动好吗？
 recent
 eg:
 rent & recent
