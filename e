@@ -1,3 +1,7 @@
+enter
+eg:
+enter the company
+进入公司
 enterprise
 英 /ˈentəpraɪz/  美 /ˈentərpraɪz/ 
 企业
