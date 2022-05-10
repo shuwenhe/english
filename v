@@ -1,3 +1,6 @@
+verify
+英 /ˈverɪfaɪ/  美 /ˈverɪfaɪ/ 
+校验、核实
 version
 docker compose version 2.2.3
 eg:
