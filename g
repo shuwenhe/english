@@ -1,3 +1,6 @@
+granularity
+英 /ˌɡrænjəˈlærəti/  美 /ˈɡrænjʊˈlerəti/
+粒度
 graph
 - graph- 写 , 画 → graph 图表
 graphics
