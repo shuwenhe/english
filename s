@@ -1,3 +1,8 @@
+simple
+英 /ˈsɪmp(ə)l/  美 /ˈsɪmpl/ 
+sample
+英 /ˈsɑːmpl/  美 /ˈsæmpl/
+取样
 sale
 after-sales
 eg:
