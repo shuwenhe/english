@@ -4,6 +4,9 @@ permission
 /pəˈmɪʃn/ 
 权限
 词根词缀： per- 通过 + -miss- 送 , 派 + -ion 名词词尾
+eg:
+roles & permissions matrix
+角色和权限矩阵
 page
 paginate
  /ˈpædʒɪneɪt/ 
