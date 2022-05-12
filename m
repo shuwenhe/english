@@ -64,6 +64,8 @@ multi-platform
 modify
 修改
 词根词缀： -mod- 量器 + -i- + -fy 动词词尾
+eg:
+Do we need to modify this file?
 minute
 分钟，极小的，微小的，会议记录
 词根词缀： -min- 小 + -ute 形容词词尾
