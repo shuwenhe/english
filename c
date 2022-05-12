@@ -1,3 +1,6 @@
+check
+eg:
+I sent it to your email, please check it, thank you.
 curve
 英 /kɜːv/  美 /kɜːrv/
 曲线
