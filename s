@@ -1,3 +1,7 @@
+schedule
+eg：
+The meeting is scheduled for today morning or afternoon.
+会议安排在今天上午或下午。
 simple
 英 /ˈsɪmp(ə)l/  美 /ˈsɪmpl/ 
 sample

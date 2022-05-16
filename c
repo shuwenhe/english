@@ -1,3 +1,9 @@
+calendar
+ /ˈkælɪndə(r)/
+日历
+col
+列
+Write the future schedule into the calendar
 check
 eg:
 I sent it to your email, please check it, thank you.
@@ -45,11 +51,6 @@ eg:
 Community Edition
 cost
 low cost低成本
-calendar
- /ˈkælɪndə(r)/
-日历
-col
-列
 Compatibility
 配伍 
 compose
