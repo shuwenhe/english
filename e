@@ -1,3 +1,6 @@
+electrical
+电气
+词根词缀： -electr- 电 + -ical
 electricity
 eg：
 ABB electricity meter
@@ -73,9 +76,6 @@ extension
 expiration
 [.ekspə'reɪʃ(ə)n] 呼气；期满
 词根词缀： ex- 出 + ( s 略) -spir- 呼吸 + -ation
-electrical
-电气
-词根词缀： -electr- 电 + -ical
 example 例子
 词根词缀： ex- 出 + am (= -em- )拿 + -ple 名词词尾
 词源 sample, exempt
