@@ -1,3 +1,7 @@
+electricity
+eg：
+ABB electricity meter
+ABB电表
 enter
 eg:
 enter the company
