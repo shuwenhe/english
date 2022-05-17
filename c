@@ -1,3 +1,7 @@
+computer
+complier
+eg:
+complier & computer
 calendar
  /ˈkælɪndə(r)/
 日历
