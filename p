@@ -1,3 +1,7 @@
+punch
+eg:
+punch in/out
+上班打卡/下班打开
 pop window
 弹窗
 permission
