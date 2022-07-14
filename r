@@ -1,4 +1,6 @@
 reply
+英/rɪˈplaɪ/ 美 /rɪˈplaɪ/
+
 reply email
 回复邮件
 
