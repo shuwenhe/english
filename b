@@ -1,3 +1,5 @@
+backup
+备份
 billion
 英 /ˈbɪljən/  美 /ˈbɪljən/ 
 十亿
