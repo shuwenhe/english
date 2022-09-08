@@ -1,3 +1,5 @@
+NAT Gateway
+网关
 news
 新闻
 英 /njuːz/  美 /nuːz/
@@ -15,7 +17,6 @@ nuclear & clear
 near
 eg:
 I live near the company
-
 neuralink神经链接
 number
 数字
