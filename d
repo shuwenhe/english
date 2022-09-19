@@ -1,3 +1,7 @@
+description
+英/dɪˈskrɪpʃn/美/dɪˈskrɪpʃn/
+Problem Description
+问题描述
 difficult
 I found it very difficult for the departments to work together.
 我发现各部门合作非常困难.
