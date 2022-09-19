@@ -1,3 +1,6 @@
+Demand
+Market Demand
+市场需求情况
 description
 英/dɪˈskrɪpʃn/美/dɪˈskrɪpʃn/
 Problem Description
