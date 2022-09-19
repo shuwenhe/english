@@ -1,3 +1,7 @@
+intelligent
+英/ɪnˈtelɪdʒənt/美/ɪnˈtelɪdʒənt/
+Robot intelligent recommendation solution
+机器人智能推荐解决方案
 ingress
 instance
 英 /ˈɪnstəns/  美 /ˈɪnstəns/ 
