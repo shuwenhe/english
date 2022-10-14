@@ -1,3 +1,11 @@
+cloud
+英 /klaʊd/ 美 /klaʊd/ 云
+eg:
+cloud & could
+could
+可以
+来自 can ，能。 -d, 过去分词后缀。
+
 chat
 英 /tʃæt/  美 /tʃæt/ 
 聊天
@@ -34,13 +42,6 @@ clear
 crm
 Customer Relationship Management
 客户关系管理
-cloud
-云
-eg:
-cloud & could
-could
-可以
-来自 can ，能。 -d, 过去分词后缀。
 cancel
 英 /ˈkæns(ə)l/  美 /ˈkænsl/ 
 取消
