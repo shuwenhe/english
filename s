@@ -1,3 +1,18 @@
+special
+英
+/ˈspeʃ(ə)l/
+美
+/ˈspeʃ(ə)l/
+特别的
+
+specify
+英
+/ˈspesɪfaɪ/
+美
+/ˈspesɪfaɪ/
+specify the topic
+指定主题
+
 spare 
 英
 /speə(r)/
@@ -126,9 +141,11 @@ study
 srm
 Supplier Relationship Management
 供应商关系管理
+
 stuff
 英 /stʌf/  美 /stʌf/
 填满，塞满，东西，物品，原料，材料
+
 staff
 英 /stɑːf/  美 /stæf/ 
 职员
