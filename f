@@ -1,3 +1,8 @@
+feedback
+/ˈfiːdbæk/
+反馈 
+词根词缀： feed 喂 + back 回
+
 folder
 /ˈfəʊldə(r)/
 文件夹
@@ -23,7 +28,6 @@ feed
 eg:
 news feed
 
-
 fantastic
  /fænˈtæstɪk/ 
  极好的，非常棒的,了不起的
@@ -42,9 +46,8 @@ filters
 Field
 [fiːld]现场
 来自 PIE * pele, 平的，展开，词源同 plan, plat. 引申词义田野，领域等
-feedback
-反馈 
-词根词缀： feed 喂 + back 回
+
+
 finally
 ['faɪn(ə)li] 终于；最终
 词根词缀： -fin- 结束 , 界限 + -al 形容词词尾 + -ly
