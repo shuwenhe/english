@@ -1,7 +1,9 @@
 engine
-引擎
+英/ˈendʒɪn/ 美/ˈendʒɪn/
+发动机
 - gen- 生殖 → engine
 engineer
+英/ˌendʒɪˈnɪə(r)/ 美/ˌendʒɪˈnɪr/
 工程师
 词根词缀： -gen- 生殖 → engine 引擎 + -er …人
 
