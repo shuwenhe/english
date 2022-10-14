@@ -1,7 +1,8 @@
 balancer
 英/ˈbælənsə(r)/ 美/ˈbælənsər/
 平衡器
-阿里云负载均衡（Server Load Balancer，简称SLB）
+SLB (Server Load Balancer)
+阿里云负载均衡
 backup
 备份
 billion
