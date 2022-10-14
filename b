@@ -2,11 +2,13 @@ backup
 备份
 data backup
 数据备份
+
 balancer
 英/ˈbælənsə(r)/ 美/ˈbælənsər/
 平衡器
 SLB (Server Load Balancer)
 阿里云负载均衡
+
 billion
 英 /ˈbɪljən/  美 /ˈbɪljən/ 
 十亿
