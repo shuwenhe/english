@@ -98,15 +98,23 @@ stuck
 Stack
 shredder
 Silicon
+
 source
-[sɔrs]来源
+英
+/sɔːs/
+美
+/sɔːrs/
+来源
+eg:
+open source
+
 resource
 ['ri.sɔrs]资源
 词根词缀： re- 再 , 重复 + source 源泉
 Outsourcing
 ['aʊt.sɔrsɪŋ]外包
-space 太空
 
+space 太空
 
 Summary
 shipper
