@@ -1,3 +1,9 @@
+disable 
+英 /dɪsˈeɪb(ə)l/  美 /dɪsˈeɪbl/ 
+eg:
+I have disabled this feature.
+我已禁用此功能。
+
 Demand
 Market Demand
 市场需求情况
@@ -8,11 +14,6 @@ Problem Description
 difficult
 I found it very difficult for the departments to work together.
 我发现各部门合作非常困难.
-disable 
-英 /dɪsˈeɪb(ə)l/  美 /dɪsˈeɪbl/ 
-eg:
-I have disabled this feature.
-我已禁用此功能。
 daemon
 英 /ˈdiːmən/  美 /ˈdiːmən/ /ˈdēmən/
 守护进程
