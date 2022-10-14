@@ -35,6 +35,7 @@ news feed
 fantastic
  /fænˈtæstɪk/ 
  极好的，非常棒的,了不起的
+
 france
 法国
 french
@@ -47,10 +48,10 @@ french revolution
 tribute
 词根词缀： -tribut- 交给 + -e
 filters
-Field
+
+field
 [fiːld]现场
 来自 PIE * pele, 平的，展开，词源同 plan, plat. 引申词义田野，领域等
-
 
 finally
 ['faɪn(ə)li] 终于；最终
