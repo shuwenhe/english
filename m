@@ -1,3 +1,7 @@
+meter
+英/ˈmiːtə(r)/ 美/ˈmiːtər/
+米 表
+
 meeting
 meeting room
 multiple

@@ -1,10 +1,15 @@
 electrical
+英/ɪˈlektrɪk(ə)l/ 美/ɪˈlektrɪkl/
 电气
 词根词缀： -electr- 电 + -ical
+
 electricity
+英/ɪˌlekˈtrɪsəti/ 美/ɪˌlekˈtrɪsəti/
+电
 eg：
 ABB electricity meter
 ABB电表
+
 enter
 eg:
 enter the company
