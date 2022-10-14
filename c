@@ -1,3 +1,10 @@
+community
+英 /kəˈmjuːnəti/  美 /kəˈmjuːnəti/ 
+社区
+词根词缀：com共同+mun公共+ity名词词尾
+eg:
+Community Edition
+
 cloud
 英 /klaʊd/ 美 /klaʊd/ 云
 eg:
@@ -53,12 +60,6 @@ eg:
 cancel & cancer (r人得癌症)
 command
 命令
-community
-英 /kəˈmjuːnəti/  美 /kəˈmjuːnəti/ 
-社区
-词根词缀：com共同+mun公共+ity名词词尾
-eg:
-Community Edition
 cost
 low cost低成本
 Compatibility
