@@ -1,13 +1,27 @@
-punch
+purchase
 英
-/pʌntʃ/
+/ˈpɜːtʃəs/
 美
-/pʌntʃ/
-eg:
-punch in/out
-上班打卡/下班打开
-pop window
-弹窗
+/ˈpɜːrtʃəs/
+采购
+pur-, 向前，在前， chase, 追逐。引申词义得到，获得，握紧，抓牢，后用于指采购，购买
+
+important
+重要
+port
+import
+进口
+进口的都是重要的
+export
+出口
+report
+
+permit
+/pəˈmɪt/
+允许许可
+词根词缀： per- 贯穿 + -mit- 送 , 派
+per-, 通过， -mit, 离开，送出，词源同 emit,mission.
+
 permission
 /pəˈmɪʃn/ 
 权限
@@ -15,6 +29,17 @@ permission
 eg:
 roles & permissions matrix
 角色和权限矩阵
+
+punch
+英
+/pʌntʃ/
+eg:
+punch in/out
+上班打卡/下班打开
+
+pop window
+弹窗
+
 page
 paginate
  /ˈpædʒɪneɪt/ 
@@ -63,15 +88,6 @@ property
 eg:
 intellectual property
 知识产权
-port
-import
-进口
-export
-出口
-important
-重要
-进口的都是重要的
-report
 
 prior
 词根词缀： -pri- 首要 + -or 形容词词尾 , 较…的
@@ -82,10 +98,6 @@ priority
 personnel
 /pəːsəˈnɛl/
 人员,职员
-permit
-允许许可
-词根词缀： per- 贯穿 + -mit- 送 , 派
-per-, 通过， -mit, 离开，送出，词源同 emit,mission.
 prometheus
 词根:pro先,前
 先知先觉者
@@ -130,9 +142,7 @@ primary
 placeholder
 占位符
 parsing
-purchase
-['pɜː(r)tʃəs]采购
-pur-, 向前，在前， chase, 追逐。引申词义得到，获得，握紧，抓牢，后用于指采购，购买
+
 propose
 求婚 建议
 词根词缀： pro- 前 , 公开 + -pos- 放置 + -e → 把观点放在公众面前

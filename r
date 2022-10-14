@@ -1,4 +1,3 @@
-
 reply
 英/rɪˈplaɪ/ 美 /rɪˈplaɪ/
 reply email
@@ -32,11 +31,20 @@ requirement
 英 /rɪˈkwaɪəmənt/  美 /rɪˈkwaɪərmənt/
 需求
 词根词缀： re- 加强意义 + -quir- 寻求 + -e + -ment 名词词尾
+
 resolve
  /rɪˈzɒlv/ 
  解决
-Role Permissions
+
+role
+英
+/rəʊl/
+美
+/roʊl/
 角色
+Role Permissions
+角色权限
+
 reliability
  /rɪˌlaɪəˈbɪləti/ 
 词根词缀： re- 再,回 + -li- 捆 + -ability 名词词尾 , 性状

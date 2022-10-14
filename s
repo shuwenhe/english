@@ -1,7 +1,22 @@
+spare 
+英
+/speə(r)/
+美
+/sper/
+备用的
+spare part
+零配件
+
 schedule
+英
+/ˈʃedjuːl/
+美
+/ˈskedʒuːl/
+日程安排 调度
 eg：
 The meeting is scheduled for today morning or afternoon.
 会议安排在今天上午或下午。
+
 simple
 英 /ˈsɪmp(ə)l/  美 /ˈsɪmpl/ 
 sample
@@ -13,6 +28,7 @@ eg:
 The after-sales department must use the software as soon as possible.
 售后部门必须尽快把软件用起来。
 solid
+
 simulation
 英 /ˌsɪmjuˈleɪʃ(ə)n/  美 /ˌsɪmjuˈleɪʃn/ 
 模拟
@@ -90,8 +106,8 @@ resource
 Outsourcing
 ['aʊt.sɔrsɪŋ]外包
 space 太空
-spare 备用
-配件
+
+
 Summary
 shipper
 special
