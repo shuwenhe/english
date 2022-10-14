@@ -1,3 +1,6 @@
+venue
+英/ˈvenjuː/ 美 /ˈvenjuː/
+发生地点
 verify
 英 /ˈverɪfaɪ/  美 /ˈverɪfaɪ/ 
 校验、核实
