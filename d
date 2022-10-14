@@ -1,3 +1,8 @@
+disclaimer
+英/dɪsˈkleɪmə(r)/ 美/dɪsˈkleɪmər/
+免责声明
+来自 disclaim, 否认，拒绝承认。用于指法律上的免责声明。
+
 disable 
 英 /dɪsˈeɪb(ə)l/  美 /dɪsˈeɪbl/ 
 eg:
@@ -23,9 +28,6 @@ dec
 diff
 disclaim
 词根词缀： dis- 否定 , 相反 + -claim- 叫喊 → 不再讲话
-disclaimer
-免责声明
-来自 disclaim, 否认，拒绝承认。用于指法律上的免责声明。
 distribute
  /dɪˈstrɪbjuːt/
 分布式
