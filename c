@@ -1,3 +1,8 @@
+chat
+英 /tʃæt/  美 /tʃæt/ 
+聊天
+group chat
+
 curve
 英 /kɜːv/  美 /kɜːrv/
 曲线
@@ -22,10 +27,7 @@ I sent it to your email, please check it, thank you.
 console
 控制台
 con-, 强调。 -sol, 整体，词源同 solid. 即构成一个整体的，整体控制的工具。
-chat
-英 /tʃæt/  美 /tʃæt/ 
-聊天
-group chat
+
 clear
 清除
 英 /klɪə(r)/  美 /klɪr/ 
