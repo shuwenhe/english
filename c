@@ -3,6 +3,7 @@ cloud
 eg:
 cloud & could
 could
+英 /kʊd kəd/ 美 /kʊd kəd/
 可以
 来自 can ，能。 -d, 过去分词后缀。
 
