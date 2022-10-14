@@ -1,5 +1,7 @@
 flowchart
+英/ˈfləʊtʃɑːt/ 美/ˈfloˌtʃɑrt/
 login flowchart
+
 forward
 转发
 feed
