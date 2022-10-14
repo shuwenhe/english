@@ -1,4 +1,8 @@
 punch
+英
+/pʌntʃ/
+美
+/pʌntʃ/
 eg:
 punch in/out
 上班打卡/下班打开
