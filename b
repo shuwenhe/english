@@ -1,3 +1,6 @@
+budget
+['bʌdʒət]预算
+
 backup
 备份
 data backup
@@ -17,6 +20,7 @@ billion
 billion & million & lion
 从“万亿”转义为“十亿”
 英语单词 billion 来自法语，由 bi- （两个）和 million （百万）构成，因此本意是 million million （万亿）。进入英语都保留了“万亿”的本意。但后来，也许是因为“万亿”这个单位太大，曾经有段时间， billion 在法语中的含义从“万亿”变成了“十亿”。美国人也采用了法国人的做法，也许是因为在美国独立战争中美国人和法国人并肩和英国人作战的缘故。法国从1948年开始将 billion 的含义恢复到它的本意“万亿”，但美国依然坚持用 billion 来表示“十亿”而非“万亿”。就这样，同一个英语单词 billion ，在美国和英国的含义相差了整整一千倍。不过，为了避免混淆，英国曾经在1961年用表示“十亿”的词根 giga- 创造了新单词 gillion ，表示“十亿”。不过，随着美国文化影响力日益增大，越来越多的英国人也开始采用美国人的做法，用 billion 来表示“十亿”而非“万亿”。
+
 believe
 英 /bɪˈliːv/  美 /bɪˈliːv/ 
 相信
@@ -26,6 +30,7 @@ lieve & leave
 eg:
 I do not believe
 我不相信
+
 bucket
 beacon
 /ˈbiːkən
@@ -45,8 +50,6 @@ broadcast
 broker
 代理,中介、经纪人
 broker → broke （断开的）+ er →将断开的两端连接起来的人→中介、经纪人
-budget
-['bʌdʒət]预算
 border
 ['bɔrdər]边框；边缘；边境
 来自 PIE * bherdh , 切，砍。指分开的。词源同 board, break.
