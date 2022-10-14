@@ -1,3 +1,11 @@
+curve
+英 /kɜːv/  美 /kɜːrv/
+曲线
+eg：
+multiple curves
+curve analysis
+曲线分析
+
 computer
 complier
 eg:
@@ -11,12 +19,6 @@ Write the future schedule into the calendar
 check
 eg:
 I sent it to your email, please check it, thank you.
-curve
-英 /kɜːv/  美 /kɜːrv/
-曲线
-eg：
-multiple curves
-curve analysis
 console
 控制台
 con-, 强调。 -sol, 整体，词源同 solid. 即构成一个整体的，整体控制的工具。
