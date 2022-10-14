@@ -1,3 +1,7 @@
+feed
+/fiːd/
+喂养 提供
+
 feedback
 /ˈfiːdbæk/
 反馈 
