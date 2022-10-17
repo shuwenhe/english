@@ -1,3 +1,10 @@
+delay
+英
+/dɪˈleɪ/
+美
+/dɪˈleɪ/
+延期
+
 disclaimer
 英/dɪsˈkleɪmə(r)/ 美/dɪsˈkleɪmər/
 免责声明
