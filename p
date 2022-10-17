@@ -144,8 +144,20 @@ placeholder
 parsing
 
 propose
-求婚 建议
+英
+/prəˈpəʊz/
+美
+/prəˈpoʊz/
+v 建议
 词根词缀： pro- 前 , 公开 + -pos- 放置 + -e → 把观点放在公众面前
+
+proposal
+英
+/prəˈpəʊz(ə)l/
+美
+/prəˈpoʊz(ə)l/
+n 建议
+
 program
 程序，计划，方案
 词根词缀： pro- 前 + -gram- 写 , 画 → 提前写好的内容
