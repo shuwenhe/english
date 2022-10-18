@@ -1,3 +1,11 @@
+confirmation
+英
+/ˌkɒnfəˈmeɪʃ(ə)n/
+美
+/ˌkɑːnfərˈmeɪʃ(ə)n/
+确认
+Thank you for your confirmation.
+
 contact
 联系人
 
