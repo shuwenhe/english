@@ -1,3 +1,7 @@
+forward
+英/ˈfɔːwəd/美/ˈfɔːrwərd/
+转发
+
 folder
 /ˈfəʊldə(r)/
 文件夹
@@ -27,8 +31,6 @@ flowchart
 英/ˈfləʊtʃɑːt/ 美/ˈfloˌtʃɑrt/
 login flowchart
 
-forward
-转发
 feed
 英 /fiːd/  美 /fiːd/ 
 eg:
