@@ -1,3 +1,11 @@
+compliance
+英
+/kəmˈplaɪəns/
+美
+/kəmˈplaɪəns/
+eg:
+compliance audit
+
 confirmation
 英
 /ˌkɒnfəˈmeɪʃ(ə)n/

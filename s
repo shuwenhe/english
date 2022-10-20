@@ -1,3 +1,10 @@
+security
+ /sɪˈkjʊərəti/ 
+词根词缀： se- 分离 + -cur- 关心 + -ity 名词词尾
+secure, 安全的，可靠的， -ity, 名词后缀。引申词义保安，安保措施，债券等。
+eg:
+for security and compliance audit 
+
 special
 英
 /ˈspeʃ(ə)l/
@@ -188,10 +195,7 @@ start
 satisfaction
 满意，满足；(愿望的)实现；乐事，愉快 
 词根词缀： -satis- 足 , 饱 , 满 + -fact- 做 , 作 + -ion 名词词尾
-security
- /sɪˈkjʊərəti/ 
-词根词缀： se- 分离 + -cur- 关心 + -ity 名词词尾
-secure, 安全的，可靠的， -ity, 名词后缀。引申词义保安，安保措施，债券等。
+
 signature
 词根词缀： -sign- 标记 + -ate 动词词尾( e 略) + -ure 名词词尾
 spare 
