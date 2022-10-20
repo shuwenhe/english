@@ -1,3 +1,6 @@
+payment
+payment advice
+付款通知书
 purchase
 英
 /ˈpɜːtʃəs/
