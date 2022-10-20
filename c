@@ -1,10 +1,8 @@
 compliance
-英
-/kəmˈplaɪəns/
-美
-/kəmˈplaɪəns/
-eg:
-compliance audit
+英/kəmˈplaɪəns/ 美/kəmˈplaɪəns/
+合规
+eg: compliance audit
+合规审计
 
 confirmation
 英
