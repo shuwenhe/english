@@ -1,3 +1,10 @@
+review
+英/rɪˈvjuː/ 美/rɪˈvjuː/
+评审
+eg:
+review meeting
+评审会议
+
 reply
 英/rɪˈplaɪ/ 美 /rɪˈplaɪ/
 reply email
