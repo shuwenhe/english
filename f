@@ -1,3 +1,10 @@
+folder
+/ˈfəʊldə(r)/
+文件夹
+folder -> older /əʊldə/
+eg:
+This folder is empty.
+
 feed
 /fiːd/
 喂养 提供
@@ -6,11 +13,6 @@ feedback
 /ˈfiːdbæk/
 反馈 
 词根词缀： feed 喂 + back 回
-
-folder
-/ˈfəʊldə(r)/
-文件夹
-folder -> older /əʊldə/
 
 feature
 英 /ˈfiːtʃə(r)/  美 /ˈfiːtʃər/ ->飞车
