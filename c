@@ -1,3 +1,6 @@
+calculate
+英/ˈkælkjuleɪt/ 美/ˈkælkjuleɪt/
+计算
 compliance
 英/kəmˈplaɪəns/ 美/kəmˈplaɪəns/
 合规
