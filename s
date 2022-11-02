@@ -1,3 +1,7 @@
+setting
+setting language
+设置语言
+
 security
  /sɪˈkjʊərəti/ 
 词根词缀： se- 分离 + -cur- 关心 + -ity 名词词尾
