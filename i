@@ -3,6 +3,7 @@ invoice
 发票
 We must get the invoice before payment.
 我们必须在付款前拿到发票。
+The VAT invoice information is as follows.
 
 intelligence
 智力
