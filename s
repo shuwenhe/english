@@ -1,3 +1,9 @@
+standard
+英/ˈstændəd/ 美/ˈstændərd/
+标准
+Machine safety is governed by two standards: EN/ISO 13849-1 and EN/IEC 62061.
+机器安全由两个标准管理：EN/ISO 13849-1 和 EN/IEC 62061。
+
 setting
 setting language
 设置语言

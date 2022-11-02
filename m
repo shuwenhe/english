@@ -1,3 +1,7 @@
+mode
+英/məʊd/ 美/moʊd/
+模式
+
 meter
 英/ˈmiːtə(r)/ 美/ˈmiːtər/
 米 表

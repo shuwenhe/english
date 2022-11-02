@@ -1,3 +1,7 @@
+criticality
+英/ˌkrɪtɪˈkælɪti/ 美/ˌkrɪtɪˈkælɪti/
+危急程度
+
 calculate
 英/ˈkælkjuleɪt/ 美/ˈkælkjuleɪt/
 计算

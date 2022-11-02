@@ -1,3 +1,11 @@
+europe
+英/ˈjʊərəp/ 美/ˈjʊrəp/
+欧洲
+
+effect
+英/ɪˈfekt/ 美/ɪˈfekt/
+影响
+
 engine
 英/ˈendʒɪn/ 美/ˈendʒɪn/
 发动机
@@ -70,8 +78,7 @@ Enterprise
 词根词缀： enter ( inter- )之间 + -pris- 包含 + -e
 ecosystem
 生态系统
-europe
-欧洲
+
 evaluation
 essential
 必要的，必不可少的；本质的，基本的

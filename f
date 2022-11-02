@@ -2,6 +2,12 @@ FMECA
 Failure Mode, Effects and Criticality Analysis
 故障模式及影响分析和危害性分析
 
+Failure
+英/ˈfeɪljə(r)/ 美/ˈfeɪljər/
+故障
+
+
+
 forward
 英/ˈfɔːwəd/美/ˈfɔːrwərd/
 转发
