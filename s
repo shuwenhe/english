@@ -1,3 +1,11 @@
+secure
+英/sɪˈkjʊə(r)/ 美/sɪˈkjʊr/
+安全
+
+SSL
+Secure Sockets Layer
+安全套接层协议
+
 standard
 英/ˈstændəd/ 美/ˈstændərd/
 标准
