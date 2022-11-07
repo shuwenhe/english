@@ -1,3 +1,7 @@
+vulnerability
+英/ˌvʌlnərəˈbɪləti/ 美/ˌvʌlnərəˈbɪləti/
+漏洞
+
 venue
 英/ˈvenjuː/ 美 /ˈvenjuː/
 发生地点
