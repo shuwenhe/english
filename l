@@ -1,3 +1,7 @@
+layer
+英/ˈleɪə(r)/ 美/ˈleɪər/
+层
+
 learn
 英 /lɜːn/  美 /lɜːrn/
 学习
