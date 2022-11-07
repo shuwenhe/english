@@ -1,3 +1,8 @@
+MCN
+Multi-Channel Network
+网红孵化中心
+专业培养和扶持网红达人的经纪公司或者机构
+
 mode
 英/məʊd/ 美/moʊd/
 模式
