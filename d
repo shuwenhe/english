@@ -1,3 +1,7 @@
+dashboard
+英/ˈdæʃbɔːd/ 美/ˈdæʃbɔːrd/
+控制面板
+
 delay
 英
 /dɪˈleɪ/
