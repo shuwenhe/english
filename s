@@ -1,3 +1,6 @@
+shop window
+橱窗
+
 secure
 英/sɪˈkjʊə(r)/ 美/sɪˈkjʊr/
 安全
