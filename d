@@ -3,10 +3,7 @@ dashboard
 控制面板
 
 delay
-英
-/dɪˈleɪ/
-美
-/dɪˈleɪ/
+英/dɪˈleɪ/ 美/dɪˈleɪ/
 延期
 
 disclaimer

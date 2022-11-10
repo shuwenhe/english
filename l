@@ -1,3 +1,6 @@
+live
+直播
+
 layer
 英/ˈleɪə(r)/ 美/ˈleɪər/
 层

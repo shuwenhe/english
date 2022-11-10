@@ -1,3 +1,7 @@
+goods
+goods-list
+商品列表
+
 granularity
 英 /ˌɡrænjəˈlærəti/  美 /ˈɡrænjʊˈlerəti/
 粒度
