@@ -1,3 +1,8 @@
+vulnerable
+adj
+英/ˈvʌlnərəbl/ 美/ˈvʌlnərəb(ə)l/
+脆弱的
+
 vulnerability
 英/ˌvʌlnərəˈbɪləti/ 美/ˌvʌlnərəˈbɪləti/
 漏洞
