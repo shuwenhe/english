@@ -1,5 +1,6 @@
 proposal
 英/prəˈpəʊz(ə)l/ 美/prəˈpoʊz(ə)l/
+词根词缀： pro- 前 , 公开 + -pos- 放置 + -al 名词后缀
 建议
 proposal form
 
