@@ -1,3 +1,8 @@
+proposal
+英/prəˈpəʊz(ə)l/ 美/prəˈpoʊz(ə)l/
+建议
+proposal form
+
 payment
 payment advice
 付款通知书
