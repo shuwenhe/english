@@ -37,9 +37,11 @@ beacon
 灯塔
 beaver
 /ˈbiːvə/
+
 海狸
 dbeaver
 Backup
+
 browser
 broadcast
 广播
@@ -47,9 +49,11 @@ broadcast
 broadcast
 ['brɔd.kæst] 广播
 词根词缀： broad 广 + cast 扔
+
 broker
 代理,中介、经纪人
 broker → broke （断开的）+ er →将断开的两端连接起来的人→中介、经纪人
+
 border
 ['bɔrdər]边框；边缘；边境
 来自 PIE * bherdh , 切，砍。指分开的。词源同 board, break.
@@ -65,5 +69,6 @@ onboard： adv. 在船上，在飞机上 adj. 随车携带的，机载的
 aboard： adv. 在船上，在火车上，在飞机上 prep. 在……上
 bin
 系统命令,可执行文件
+
 binary
 二进制

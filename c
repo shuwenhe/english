@@ -5,21 +5,27 @@ criticality
 calculate
 英/ˈkælkjuleɪt/ 美/ˈkælkjuleɪt/
 计算
+
 compliance
 英/kəmˈplaɪəns/ 美/kəmˈplaɪəns/
 合规
 eg: compliance audit
 合规审计
 
+confirm
+英/kənˈfɜːm/ 美/kənˈfɜːrm/
+词根词缀： con- 加强意义 + -firm- 巩固 , 确定
+v.确认
+
 confirmation
-英
-/ˌkɒnfəˈmeɪʃ(ə)n/
-美
-/ˌkɑːnfərˈmeɪʃ(ə)n/
-确认
+英/ˌkɒnfəˈmeɪʃ(ə)n/ 美/ˌkɑːnfərˈmeɪʃ(ə)n/
+n.确认
+词根词缀： con- 加强意义 + -firm- 巩固 , 确定 + -ation 名词后缀
 Thank you for your confirmation.
 
 contact
+英/ˈkɒntækt/ 美/ˈkɑːntækt/
+词根词缀： con- 共同 + -tact- 接触 词源同 tactile, tangible
 联系人
 
 community
