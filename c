@@ -14,8 +14,8 @@ eg: compliance audit
 
 confirm
 英/kənˈfɜːm/ 美/kənˈfɜːrm/
-词根词缀： con- 加强意义 + -firm- 巩固 , 确定
 v.确认
+词根词缀： con- 加强意义 + -firm- 巩固 , 确定
 
 confirmation
 英/ˌkɒnfəˈmeɪʃ(ə)n/ 美/ˌkɑːnfərˈmeɪʃ(ə)n/
@@ -30,8 +30,8 @@ contact
 
 community
 英 /kəˈmjuːnəti/  美 /kəˈmjuːnəti/ 
-社区
 词根词缀：com共同+mun公共+ity名词词尾
+社区
 eg:
 Community Edition
 
@@ -43,6 +43,7 @@ could
 英 /kʊd kəd/ 美 /kʊd kəd/
 可以
 来自 can ，能。 -d, 过去分词后缀。
+Ali Cloud Server
 
 chat
 英 /tʃæt/  美 /tʃæt/ 
@@ -61,37 +62,56 @@ computer
 complier
 eg:
 complier & computer
+
+claim
+英/kleɪm/ 美/kleɪm/
+宣布
+
 calendar
  /ˈkælɪndə(r)/
+词根 cal, 叫喊，词源同 claim 源自古罗马时期在月初第一天进行收帐，后代指日历
 日历
 col
 列
-Write the future schedule into the calendar
+Write the future schedule into the calendar.
 check
 eg:
 I sent it to your email, please check it, thank you.
+古代罗马人有一种特别的宗教习俗。有负责历法的祭司负责观察月亮变化。
+一旦发现新月 出现，他就会向大家宣告新的一月开始，欠债者需要在这一天将到期的债务还清。
+拉丁语中表示罗马月份的第一天的单词是 calendae ，由 calare （庄严宣布，大声呼喊）衍生而成，
+英语单词 claim （宣布）与 calare 同源，而英语单词 calends （罗马月份的第一天）和 calendar （日历） 都源自拉丁语 calendae 
+
 console
+英/kənˈsəʊl/ 美/kənˈsoʊl/
 控制台
-con-, 强调。 -sol, 整体，词源同 solid. 即构成一个整体的，整体控制的工具。
+词根词缀 con-, 强调。 -sol, 整体，词源同 solid. 即构成一个整体的，整体控制的工具
+eg:
 
 clear
 清除
 英 /klɪə(r)/  美 /klɪr/ 
-crm
+
+CRM
 Customer Relationship Management
 客户关系管理
+
 cancel
 英 /ˈkæns(ə)l/  美 /ˈkænsl/ 
 取消
+
 cancer
 英 /ˈkænsə(r)/  美 /ˈkænsər/
 癌症
 eg:
 cancel & cancer (r人得癌症)
+
 command
 命令
+
 cost
 low cost低成本
+
 Compatibility
 配伍 
 
@@ -101,50 +121,64 @@ compose
 词根词缀： com- 共同 + -pos- 放置 + -e → 共同放置 , 放在一起
 eg:
 docker compose
-confirm
-词根词缀： con- 加强意义 + -firm- 巩固 , 确定
-remote
+
 consensus
 /kənˈsensəs/ 共识
 词根词缀： con- 共同 + -sens- 感觉 + -us 名词词尾
+
 calculus
 /ˈkælkjələs/
 微积分
 词根词缀： -calcul- 小石头 , 石灰石 + -us 名词后缀
+
 consciousness
 [ˈkɒnʃəsnəs]
 意识，知觉
 词根词缀： con- 加强意义 + -sci- 知 + -ous 形容词词尾 + -ness 名词词尾
+
 client
  [ˈklaɪənt]
 客户
+
 customer
 [ˈkʌstəmə(r)]
 消费者
 词根词缀： custom 惠顾 + -er
+
 corporation
+
 clerk
+
 constraint
+
 checklist
+
 convey
 词根词缀： con- 共同 + -vey- 路
 con-, 强调。 -vey, 路，移动，词源同 via, way.
+
 consider
 考虑
 con-, 强调。 -sider, 星，词源同 star, sidereal. 古义指星相学看星占卜，并通过星辰移位来思考预测人间万事。比较 disaster, 星位不正，空难。
+
 config
+
 configure
 配置，设定，使成形，使具一定形式
 词根词缀： con- 加强意义 + -fig- 制造 , 塑造 + -ure 名词词尾 已转化为动词
+
 configuration	
 /kənˌfɪɡəˈreɪʃn/组态，构形，构造，布局，配置
 词根词缀： con- 加强意义 + -fig- 制造 , 塑造 + -ure ( e 略)名词词尾 + -ation 名词词尾
+
 claim
+英/kleɪm/ 美/kleɪm/
 声称，断言，需要，索取
  claim- 叫喊 → claim
  来源于拉丁语动词 clamo, -are, -avi, -atus 呼喊 , 声明
 - claim- 叫喊 → claim
 来自 PIE * kele, 叫，呼喊，词源同 call,clamor.
+
 charger
 conversation
 对话
