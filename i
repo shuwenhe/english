@@ -8,31 +8,34 @@ The VAT invoice information is as follows.
 intelligence
 智力
 词根词缀： intel- 之间 , 中间 + -lig- 诵读 + -ence 名词词尾
-eg:
 artificial intelligence
 人工智能
 
 intellectual
 词根词缀： intel- 之间 , 中间 + -lect- 诵读 + -ual
+
 intelligent
 英/ɪnˈtelɪdʒənt/美/ɪnˈtelɪdʒənt/
 Robot intelligent recommendation solution
 机器人智能推荐解决方案
 
 ingress
+
 instance
 英 /ˈɪnstəns/  美 /ˈɪnstəns/ 
 实例
+
 invasion
 侵略
 英[ɪnˈveɪʒn] 美[ɪnˈveɪʒn]
 词根词缀： in- 入 + -vas- 走 + -ion 名词词尾
+
 install
-eg:
 Install Docker Compose
 
 intellectual property
 知识产权
+
 information
 英[ˌɪnfəˈmeɪʃn] 
 美[ˌɪnfərˈmeɪʃn]

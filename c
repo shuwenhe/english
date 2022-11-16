@@ -218,14 +218,19 @@ category
 英/ˈkætəɡəri/ 美/ˈkætəɡɔːri/
 词根词缀： cat- 相反 , 反对 + egory 公共集会
 分类
+
 contract
-['kɒntrækt] 合同
-词根词缀： con- 共同 + -tract- 拉 , 引 → 相互牵扯 , 拉到一起来
+['kɒntrækt] 
+合同
+词根词缀 con- 共同 + -tract- 拉 , 引 → 相互牵扯 , 拉到一起来
 
 common
 普通，公共
 词根词缀： com- 共同 + -mon- 公共
 common hero 平民英雄
 common sense 常识
+
 contribution
+英/ˌkɒntrɪˈbjuːʃ(ə)n/ 美/ˌkɑːntrɪˈbjuːʃ(ə)n/
+贡献
 词根词缀： con- 加强意义 + -tribut- 交给 + -ion 名词词尾

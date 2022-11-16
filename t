@@ -1,3 +1,6 @@
+tribute
+词根词缀： -tribut- 交给 + -e
+
 tell
 eg:
 What more can you tell me about that?
