@@ -1,3 +1,7 @@
+GMV
+Gross Merchandise Value
+商品交易总值
+
 granularity
 英 /ˌɡrænjəˈlærəti/  美 /ˈɡrænjʊˈlerəti/
 粒度
