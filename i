@@ -1,3 +1,7 @@
+identification
+Image identification
+图像识别
+
 invoice
 英/ˈɪnvɔɪs/ 美/ˈɪnvɔɪs/
 发票
