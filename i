@@ -1,4 +1,6 @@
 identification
+英/aɪˌdentɪfɪˈkeɪʃ(ə)n/ 美/aɪˌdentɪfɪˈkeɪʃ(ə)n/
+识别
 Image identification
 图像识别
 
