@@ -1,0 +1,14 @@
+\contentsline {chapter}{目录}{2}{chapter*.1}%
+\contentsline {chapter}{\numberline {第一章\hspace {.3em}}mathematics mind}{3}{chapter.0.1}%
+\contentsline {chapter}{\numberline {第二章\hspace {.3em}}数}{4}{chapter.0.2}%
+\contentsline {section}{\numberline {1}自然数}{4}{section.0.2.1}%
+\contentsline {section}{\numberline {2}整数}{4}{section.0.2.2}%
+\contentsline {section}{\numberline {3}有理数}{4}{section.0.2.3}%
+\contentsline {section}{\numberline {4}实数}{4}{section.0.2.4}%
+\contentsline {section}{\numberline {5}算术运算}{4}{section.0.2.5}%
+\contentsline {subsection}{\numberline {5.1}加}{4}{subsection.0.2.5.1}%
+\contentsline {chapter}{\numberline {第三章\hspace {.3em}}初等数学}{5}{chapter.0.3}%
+\contentsline {section}{\numberline {1}代数}{5}{section.0.3.1}%
+\contentsline {section}{\numberline {2}几何}{5}{section.0.3.2}%
+\contentsline {chapter}{\numberline {第四章\hspace {.3em}}初等数论}{6}{chapter.0.4}%
+\contentsline {chapter}{\numberline {第五章\hspace {.3em}}离散与组合数学}{7}{chapter.0.5}%
