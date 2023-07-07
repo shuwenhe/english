@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.16.1 (MiKTeX 23.4) (format=lualatex 2023.6.13)  7 JUL 2023 15:48
+This is LuaHBTeX, Version 1.16.1 (MiKTeX 23.4) (format=lualatex 2023.6.13)  7 JUL 2023 16:22
  restricted system commands enabled.
 **english.tex
 (./english.tex
@@ -1221,7 +1221,7 @@ t with language dflt
 luaotfload | aux : font no 108 (nil) does not define feature vrt2 for script dfl
 t with language dflt
 
-LaTeX Warning: \verb may be unreliable inside tabularx on input line 136.
+LaTeX Warning: \verb may be unreliable inside tabularx on input line 140.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1291,6 +1291,10 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 第十五章
 [20
 
+
+Missing character: There is no ˈ (U+02C8) in font [lmroman12-regular]:+tlig;!
+Missing character: There is no ɪ (U+026A) in font [lmroman12-regular]:+tlig;!
+Missing character: There is no ʒ (U+0292) in font [lmroman12-regular]:+tlig;!
 ]
 第十六章
 [21
@@ -1349,7 +1353,7 @@ Here is how much of LuaTeX's memory you used:
  856 words of node memory still in use:
    7 hlist, 2 vlist, 2 rule, 2 glue, 4 kern, 1 glyph, 118 attribute, 66 glue_spe
 c, 19 attribute_list, 2 write, 10 user_defined nodes
-   avail lists: 1:3,2:17375,3:187,4:264,5:90,6:48,7:1072,8:2,9:602,10:6,11:10,12
+   avail lists: 1:3,2:19571,3:187,4:284,5:90,6:52,7:1202,8:2,9:658,10:6,11:10,12
 :1
  40565 multiletter control sequences out of 65536+600000
  108 fonts using 149556367 bytes
@@ -1360,9 +1364,9 @@ Data\fonts/pk/ljfour/public/tipa/dpi600\tipa12.pk>><C:/Windows/Fonts/simkai.ttf>
 s/simhei.ttf><C:/Windows/Fonts/simsun.ttc><//?/c:/ctex/miktex/fonts/opentype/pub
 lic/lm/lmroman12-regular.otf><//?/c:/ctex/miktex/fonts/opentype/public/lm/lmroma
 n17-regular.otf>
-Output written on english.pdf (31 pages, 85821 bytes).
+Output written on english.pdf (31 pages, 88421 bytes).
 
-PDF statistics: 340 PDF objects out of 1000 (max. 8388607)
+PDF statistics: 342 PDF objects out of 1000 (max. 8388607)
  59 named destinations out of 1000 (max. 131072)
  217 words of extra memory for PDF output out of 10000 (max. 100000000)
 
