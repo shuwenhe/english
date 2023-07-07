@@ -29,6 +29,7 @@
 \usepackage[pdfstartview=FitH,CJKbookmarks=true,bookmarks,bookmarksnumbered=true,
     colorlinks=true,citecolor=black,linkcolor=black,anchorcolor=green,urlcolor=black]{hyperref}
 \usepackage{titlesec}
+\usepackage{tabularx}
 \titleformat{\chapter}[display]{\normalfont\huge\bfseries\center}{\chaptertitlename}{1pt}{\Huge}
 \titleformat{\section}{\normalfont\Large\bfseries}{\thesection}{1em}{}
 \titleformat{\subsection}{\normalfont\large\bfseries}{\thesubsection}{1em}{}
@@ -58,7 +59,7 @@
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %
-\usepackage{tipa}
+\usepackage{tipa} % 音标
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -67,53 +68,96 @@
 
 \author
 {
-Peking University\\
-北京大学\\
-ShuwenHe\\
-何书文\\
-1201220707@pku.edu.cn
+%Peking University\\
+%北京大学\\
+%ShuwenHe\\
+%何书文\\
+%1201220707@pku.edu.cn
+swh
 }
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\centerline{\includegraphics{shuwenhe.png}}
-写好一本书：工匠精神！用心打造！夜深写于北京大学图书馆。作者亲自一线带课，所带学生多人保送或考入清华北大，根据多年清华附中、101中学、人大附中、北大附中、十一学校，考试真题分析经验所得。用此书考上心目中名校学生无数！何书文北京大学硕士，资深数学名师、信息学竞赛算法名师，所带学生多名考入人大附中早培、清华附中优才、101 实验班、北大附中实验班等名校。全国中学数学联赛、全国中学数学竞赛的辅导老师，全国NOI、CSP信息学竞赛辅导名师。何书文老师在北京大学学习期间立志从事教育事业，帮学生授业解惑。何书文老师小学期间学习奥数，并多次获奖，为以后的学习与研究打下良好基础。何书文 老师在中学阶段数学、物理均获奖。何书文老师在小学中学期间一直为数学课代表，中小学大学期间担任班长，何书文老师在北京大学被选为科技一苑苑长，组织北大同学积极参与校各项活动，积极参与校学生会工作，何书文老师被北京大学评为优秀入党积极分子.何书文老师经常参加北京大学数学课题的研讨班。何书文 老师是北京大学数学系暑期学校全国选出40 名优秀中青年数学人才之一，参加伦敦国王学院、美国杜克大学、美国纽约大学、加拿大多伦多大学教授组成的学术研讨班，研究PDE(偏微分方程)，量子力学方面的数学课题的研究工作，并获得优异成绩结业。何书文老师作为项目经理用数学建模方法给大型企业开发软件，用数学方法规划提高企业产能协作效率。何书文 老师致力于数学方面的教学与研究工作，所带多名孩子已经被点优才进入清华附中创新班，101 实验班，人大附中早培班，是家长值得信赖的老师。考上学生继续跟随何书文老师学习全国数学联赛，全国数学竞赛系列课程，同时学习NOI、IOI、ACM算法编程竞赛。
+%\centerline{\includegraphics{shuwenhe.png}}
+%写好一本书：工匠精神！用心打造！夜深写于北京大学图书馆。作者亲自一线带课，所带学生多人保送或考入清华北大，根据多年清华附中、101中学、人大附中、北大附中、十一学校，考试真题分析经验所得。用此书考上心目中名校学生无数！何书文北京大学硕士，资深数学名师、信息学竞赛算法名师，所带学生多名考入人大附中早培、清华附中优才、101 实验班、北大附中实验班等名校。全国中学数学联赛、全国中学数学竞赛的辅导老师，全国NOI、CSP信息学竞赛辅导名师。何书文老师在北京大学学习期间立志从事教育事业，帮学生授业解惑。何书文老师小学期间学习奥数，并多次获奖，为以后的学习与研究打下良好基础。何书文 老师在中学阶段数学、物理均获奖。何书文老师在小学中学期间一直为数学课代表，中小学大学期间担任班长，何书文老师在北京大学被选为科技一苑苑长，组织北大同学积极参与校各项活动，积极参与校学生会工作，何书文老师被北京大学评为优秀入党积极分子.何书文老师经常参加北京大学数学课题的研讨班。何书文 老师是北京大学数学系暑期学校全国选出40 名优秀中青年数学人才之一，参加伦敦国王学院、美国杜克大学、美国纽约大学、加拿大多伦多大学教授组成的学术研讨班，研究PDE(偏微分方程)，量子力学方面的数学课题的研究工作，并获得优异成绩结业。何书文老师作为项目经理用数学建模方法给大型企业开发软件，用数学方法规划提高企业产能协作效率。何书文 老师致力于数学方面的教学与研究工作，所带多名孩子已经被点优才进入清华附中创新班，101 实验班，人大附中早培班，是家长值得信赖的老师。考上学生继续跟随何书文老师学习全国数学联赛，全国数学竞赛系列课程，同时学习NOI、IOI、ACM算法编程竞赛。
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\title{english}
+\title{English}
 \maketitle
 \tableofcontents % 显示目录
 \newpage
 \pagestyle{fancy}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\lhead{\includegraphics{shuwenedu.png}}
-\rhead{科技特长生升学规划 何校长 电话微信15010729356}
-\lfoot{\includegraphics{pku.png}算法第一人北大何书文}
-\rfoot{改变您家孩子命运的老师}
+%\lhead{\includegraphics{shuwenedu.png}}
+%\rhead{科技特长生升学规划 何校长 电话微信15010729356}
+%\lfoot{\includegraphics{pku.png}算法第一人北大何书文}
+%\rfoot{改变您家孩子命运的老师}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\chapter{mathematics mind}
-\includegraphics[scale=0.15]{mathematics.png}
-
-\chapter{数}
-\section{自然数}
-\section{整数}
-\section{有理数}
-\section{实数}
-\section{算术运算}
-\subsection{加}
-
-\chapter{初等数学}
-\section{代数}
-\section{几何}
-
-\chapter{初等数论}
-
-\chapter{离散与组合数学}
-
-
+\begin{center}
+\begin{tabularx}{\textwidth}{|c|X|}
+\hline
+\textbf{英语音标} & \textbf{LaTeX音标} \\
+\hline
+\textipa{I} & \verb|\textipa{I}| \\
+\hline
+e & \verb|\textipa{e}| \\
+\hline
+\textipa{\textepsilon} & \verb|\textipa{\textepsilon}| \\
+\hline
+\textipa{A}& \verb|\textipa{A}| \\
+\hline
+\textipa{o} & \verb|\textipa{o}| \\
+\hline
+\textipa{U} & \verb|\textipa{U}| \\
+\hline
+u & \verb|\textipa{u}| \\
+\hline
+ə & \verb|\textipa{@}| \\
+\hline
+\textipa{g} & \verb|\textipa{g}| \\
+\hline
+\textipa{T} & \verb|\textipa{T}| \\
+\hline
+ð & \verb|\textipa{D}| \\
+\hline
+\textipa{S} & \verb|\textipa{S}| \\
+\hline
+\textipa{Z} & \verb|\textipa{Z}| \\
+\hline
+ŋ & \verb|\textipa{N}| \\
+\hline
+\end{tabularx}
+\end{center}
+    
+\chapter{a}
+\chapter{b}
+\chapter{c}
+\chapter{d}
+\chapter{e}
+\chapter{f}
+\chapter{g}
+\chapter{h}
+\chapter{i}
+\chapter{j}
+\chapter{k}
+\chapter{l}
+\chapter{m}
+\chapter{n}
+\chapter{o}
+\chapter{p}
+\chapter{q}
+\chapter{r}
+\chapter{s}
+\chapter{t}
+\chapter{u}
+\chapter{v}
+\chapter{w}
+\chapter{x}
+\chapter{y}
+\chapter{z}
 
 \clearpage
 \end{document}
