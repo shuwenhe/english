@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 23.5) (preloaded format=xelatex 2023.6.22)  8 JUL 2023 23:55
+This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 23.5) (preloaded format=xelatex 2023.6.22)  9 JUL 2023 00:01
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -966,11 +966,11 @@ Package fontspec Info: Font family 'FangSong(0)' created for font 'FangSong'
 (fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
 
 
-LaTeX Warning: \verb may be unreliable inside tabularx on input line 143.
+LaTeX Warning: \verb may be unreliable inside tabularx on input line 126.
 
 
 LaTeX Font Warning: Font shape `T3/lmr/bx/n' undefined
-(Font)              using `T3/lmr/m/n' instead on input line 146.
+(Font)              using `T3/lmr/m/n' instead on input line 129.
 
 Missing character: There is no ˈ in font [lmroman12-regular]:mapping=tex-text;!
 
@@ -1005,7 +1005,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 [10]
 第二章
 
-Underfull \hbox (badness 10000) in paragraph at lines 213--215
+Underfull \hbox (badness 10000) in paragraph at lines 196--198
 
  []
 
