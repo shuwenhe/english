@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 23.5) (preloaded format=xelatex 2023.6.22)  9 JUL 2023 11:59
+This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 23.5) (preloaded format=xelatex 2023.6.22)  9 JUL 2023 12:52
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -921,12 +921,19 @@ LaTeX Font Info:    Font shape `TU/SimSun(0)/m/sl' in size <12> not available
 [4]
 Underfull \vbox (badness 3872) has occurred while \output is active []
 
- [5])
+ [5]
+[6]
+Underfull \vbox (badness 3872) has occurred while \output is active []
+
+ [7]
+Underfull \vbox (badness 3872) has occurred while \output is active []
+
+ [8])
 \tf@toc=\write4
 \openout4 = `english.toc'.
 
 
-[6]
+[9]
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -935,7 +942,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[7]
+[10]
 第一章
 
 Underfull \hbox (badness 10000) in paragraph at lines 102--102
@@ -975,7 +982,7 @@ LaTeX Font Warning: Font shape `T3/lmr/bx/n' undefined
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [8
+ [11
 
 ]
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -989,7 +996,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[9]
+[12]
 Overfull \vbox (1334.82701pt too high) has occurred while \output is active []
 
 
@@ -1001,12 +1008,12 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[10]
+[13]
 第二章
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [11
+ [14
 
 ]
 
@@ -1017,7 +1024,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[12]
+[15]
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1026,11 +1033,35 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[13]
+[16]
 第三章
-[14
+[17
 
-] (english.aux)
+]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[18]
+Overfull \vbox (1514.17137pt too high) has occurred while \output is active []
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[19] (english.aux)
  ***********
 LaTeX2e <2023-06-01>
 L3 programming layer <2022/08/05>
@@ -1040,15 +1071,15 @@ L3 programming layer <2022/08/05>
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 Package rerunfilecheck Info: File `english.out' has not changed.
-(rerunfilecheck)             Checksum: F6B6773CADFF18CDCB1591677CCFFCC5;8852.
+(rerunfilecheck)             Checksum: 7C7EF7991DC71FED571161C480E970AA;14079.
  ) 
 Here is how much of TeX's memory you used:
- 20207 strings out of 411165
- 400609 string characters out of 5816116
- 1860380 words of memory out of 5000000
- 40427 multiletter control sequences out of 15000+600000
+ 20265 strings out of 411165
+ 404093 string characters out of 5816116
+ 1863380 words of memory out of 5000000
+ 40485 multiletter control sequences out of 15000+600000
  525840 words of font info for 124 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  93i,11n,108p,1207b,538s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on english.pdf (14 pages).
+Output written on english.pdf (19 pages).
