@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 23.5) (preloaded format=xelatex 2023.6.22)  9 JUL 2023 00:01
+This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 23.5) (preloaded format=xelatex 2023.6.22)  9 JUL 2023 11:22
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -966,13 +966,12 @@ Package fontspec Info: Font family 'FangSong(0)' created for font 'FangSong'
 (fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
 
 
-LaTeX Warning: \verb may be unreliable inside tabularx on input line 126.
+LaTeX Warning: \verb may be unreliable inside tabularx on input line 127.
 
 
 LaTeX Font Warning: Font shape `T3/lmr/bx/n' undefined
-(Font)              using `T3/lmr/m/n' instead on input line 129.
+(Font)              using `T3/lmr/m/n' instead on input line 130.
 
-Missing character: There is no ˈ in font [lmroman12-regular]:mapping=tex-text;!
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
@@ -991,7 +990,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [9]
-Overfull \vbox (1379.6631pt too high) has occurred while \output is active []
+Overfull \vbox (1334.82701pt too high) has occurred while \output is active []
 
 
 
@@ -1005,24 +1004,14 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 [10]
 第二章
 
-Underfull \hbox (badness 10000) in paragraph at lines 196--198
-
- []
-
-
-Underfull \vbox (badness 2229) has occurred while \output is active []
+Underfull \vbox (badness 5417) has occurred while \output is active []
 
  [11
 
 ]
-Missing character: There is no ˌ in font [lmroman12-regular]:mapping=tex-text;!
-Missing character: There is no θ in font [lmroman12-regular]:mapping=tex-text;!
 Missing character: There is no ˈ in font [lmroman12-regular]:mapping=tex-text;!
 Missing character: There is no ɪ in font [lmroman12-regular]:mapping=tex-text;!
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
+Missing character: There is no ʒ in font [lmroman12-regular]:mapping=tex-text;!
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1032,11 +1021,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [12]
-Missing character: There is no ˈ in font [lmroman12-regular]:mapping=tex-text;!
-Missing character: There is no ɪ in font [lmroman12-regular]:mapping=tex-text;!
-Missing character: There is no ʒ in font [lmroman12-regular]:mapping=tex-text;!
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Underfull \vbox (badness 3735) has occurred while \output is active []
 
 
 
@@ -1073,10 +1058,10 @@ Package rerunfilecheck Info: File `english.out' has not changed.
 (rerunfilecheck)             Checksum: F6B6773CADFF18CDCB1591677CCFFCC5;8852.
  ) 
 Here is how much of TeX's memory you used:
- 20240 strings out of 411165
- 402628 string characters out of 5816116
+ 20219 strings out of 411165
+ 401337 string characters out of 5816116
  1860380 words of memory out of 5000000
- 40460 multiletter control sequences out of 15000+600000
+ 40439 multiletter control sequences out of 15000+600000
  525840 words of font info for 124 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  93i,11n,108p,1207b,538s stack positions out of 10000i,1000n,20000p,200000b,200000s
