@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.16.1 (MiKTeX 23.4) (format=lualatex 2023.6.13)  10 JUL 2023 08:54
+This is LuaHBTeX, Version 1.16.1 (MiKTeX 23.4) (format=lualatex 2023.6.13)  10 JUL 2023 09:02
  restricted system commands enabled.
 **english.tex
 (./english.tex
@@ -1333,12 +1333,18 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-Package rerunfilecheck Info: File `english.out' has not changed.
-(rerunfilecheck)             Checksum: 4C543F98A7885C6DC005A0702F09881C;14322.
+
+Package rerunfilecheck Warning: File `english.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `english.out':
+(rerunfilecheck)             Before: 4C543F98A7885C6DC005A0702F09881C;14322
+(rerunfilecheck)             After:  0E74D3907B142F3BDF6A378C362D3F41;14427.
 )
 
 Here is how much of LuaTeX's memory you used:
- 21572 strings out of 478278
+ 21573 strings out of 478278
  125096,1977958 words of node,token memory allocated
  904 words of node memory still in use:
    7 hlist, 2 vlist, 2 rule, 2 glue, 4 kern, 1 glyph, 140 attribute, 66 glue_spe
@@ -1355,9 +1361,9 @@ X\UserData\fonts/pk/ljfour/public/tipa/dpi600\tipa12.pk>><//?/c:/ctex/miktex/fon
 ts/opentype/public/lm/lmroman12-bold.otf><C:/Windows/Fonts/simhei.ttf><//?/c:/ct
 ex/miktex/fonts/opentype/public/lm/lmroman12-regular.otf><C:/Windows/Fonts/simsu
 n.ttc><//?/c:/ctex/miktex/fonts/opentype/public/lm/lmroman17-regular.otf>
-Output written on english.pdf (20 pages, 211346 bytes).
+Output written on english.pdf (20 pages, 211785 bytes).
 
-PDF statistics: 878 PDF objects out of 1000 (max. 8388607)
- 160 named destinations out of 1000 (max. 131072)
+PDF statistics: 880 PDF objects out of 1000 (max. 8388607)
+ 161 named destinations out of 1000 (max. 131072)
  1113 words of extra memory for PDF output out of 10000 (max. 100000000)
 
