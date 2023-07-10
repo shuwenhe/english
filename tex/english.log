@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.16.1 (MiKTeX 23.4) (format=lualatex 2023.6.13)  10 JUL 2023 09:02
+This is LuaHBTeX, Version 1.16.1 (MiKTeX 23.4) (format=lualatex 2023.6.13)  10 JUL 2023 09:29
  restricted system commands enabled.
 **english.tex
 (./english.tex
@@ -1305,8 +1305,17 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 [17
 
 ]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.91003pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.91003pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.91003pt}.
+
+[18]
 第四章
-[18
+[19
 
 ]
 
@@ -1317,7 +1326,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.91003pt}.
 
-[19]
+[20]
 Overfull \vbox (1514.17137pt too high) has occurred while \output is active []
 
 
@@ -1329,29 +1338,23 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.91003pt}.
 
-[20] (./english.aux)
+[21] (./english.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-
-Package rerunfilecheck Warning: File `english.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `english.out':
-(rerunfilecheck)             Before: 4C543F98A7885C6DC005A0702F09881C;14322
-(rerunfilecheck)             After:  0E74D3907B142F3BDF6A378C362D3F41;14427.
+Package rerunfilecheck Info: File `english.out' has not changed.
+(rerunfilecheck)             Checksum: 130E1E2492CF08158070F16C46468584;15108.
 )
 
 Here is how much of LuaTeX's memory you used:
- 21573 strings out of 478278
+ 21591 strings out of 478278
  125096,1977958 words of node,token memory allocated
  904 words of node memory still in use:
    7 hlist, 2 vlist, 2 rule, 2 glue, 4 kern, 1 glyph, 140 attribute, 66 glue_spe
 c, 21 attribute_list, 2 write, 10 user_defined nodes
-   avail lists: 1:4,2:33025,3:911,4:480,5:189,6:112,7:3110,8:2,9:891,10:10,11:51
+   avail lists: 1:4,2:33025,3:911,4:480,5:189,6:112,7:3110,8:2,9:891,10:10,11:56
 ,12:1
- 40693 multiletter control sequences out of 65536+600000
+ 40703 multiletter control sequences out of 65536+600000
  115 fonts using 163783679 bytes
  88i,11n,111p,2105b,553s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <<C:\CTEX\UserData\fonts/pk/ljfour/public/tipa/dpi720\tipa12.pk>><//?/c:/ctex/mi
@@ -1361,9 +1364,9 @@ X\UserData\fonts/pk/ljfour/public/tipa/dpi600\tipa12.pk>><//?/c:/ctex/miktex/fon
 ts/opentype/public/lm/lmroman12-bold.otf><C:/Windows/Fonts/simhei.ttf><//?/c:/ct
 ex/miktex/fonts/opentype/public/lm/lmroman12-regular.otf><C:/Windows/Fonts/simsu
 n.ttc><//?/c:/ctex/miktex/fonts/opentype/public/lm/lmroman17-regular.otf>
-Output written on english.pdf (20 pages, 211785 bytes).
+Output written on english.pdf (21 pages, 228804 bytes).
 
-PDF statistics: 880 PDF objects out of 1000 (max. 8388607)
- 161 named destinations out of 1000 (max. 131072)
- 1113 words of extra memory for PDF output out of 10000 (max. 100000000)
+PDF statistics: 924 PDF objects out of 1000 (max. 8388607)
+ 169 named destinations out of 1000 (max. 131072)
+ 1177 words of extra memory for PDF output out of 10000 (max. 100000000)
 
