@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 23.5) (preloaded format=xelatex 2023.6.22)  15 JUL 2023 07:54
+This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 23.5) (preloaded format=xelatex 2023.6.22)  15 JUL 2023 20:05
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -901,13 +901,13 @@ File: uwasy.fd 2020/01/19 v2.4 Wasy-2 symbol font definitions
 
 
 ] (english.toc
-LaTeX Font Info:    Trying to load font information for T3+lmr on input line 5.
+LaTeX Font Info:    Trying to load font information for T3+lmr on input line 6.
 
-LaTeX Font Info:    No file T3lmr.fd. on input line 5.
+LaTeX Font Info:    No file T3lmr.fd. on input line 6.
 
 
 LaTeX Font Warning: Font shape `T3/lmr/m/n' undefined
-(Font)              using `T3/cmr/m/n' instead on input line 5.
+(Font)              using `T3/cmr/m/n' instead on input line 6.
 
 [2
 
@@ -918,7 +918,9 @@ LaTeX Font Info:    Font shape `TU/SimSun(0)/m/sl' in size <12> not available
 (Font)              Font shape `TU/SimSun(0)/m/it' tried instead on input line 
 36.
  [3]
-[4]
+Underfull \vbox (badness 3872) has occurred while \output is active []
+
+ [4]
 Underfull \vbox (badness 3872) has occurred while \output is active []
 
  [5]
@@ -976,8 +978,9 @@ Package fontspec Info: Font family 'FangSong(0)' created for font 'FangSong'
 LaTeX Warning: \verb may be unreliable inside tabularx on input line 126.
 
 
-LaTeX Font Warning: Font shape `T3/lmr/bx/n' undefined
-(Font)              using `T3/lmr/m/n' instead on input line 129.
+Overfull \hbox (58.11536pt too wide) in paragraph at lines 129--135
+[] 
+ []
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -985,6 +988,11 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [12
 
 ]
+
+LaTeX Font Warning: Font shape `T3/lmr/bx/n' undefined
+(Font)              using `T3/lmr/m/n' instead on input line 136.
+
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
@@ -1016,7 +1024,7 @@ Missing character: There is no ɪ in font [lmroman12-regular]:mapping=tex-text;!
 Missing character: There is no ˈ in font [lmroman12-regular]:mapping=tex-text;!
 Missing character: There is no ɪ in font [lmroman12-regular]:mapping=tex-text;!
 
-Overfull \hbox (36.29283pt too wide) in paragraph at lines 200--209
+Overfull \hbox (36.29283pt too wide) in paragraph at lines 207--216
 [] 
  []
 
@@ -1027,6 +1035,9 @@ Missing character: There is no ɪ in font [lmroman12-regular]:mapping=tex-text;!
 [15
 
 ]
+Missing character: There is no ˈ in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no ɔ in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no ː in font [lmroman12-regular]:mapping=tex-text;!
 Missing character: There is no ɡ in font [lmroman12-regular]:mapping=tex-text;!
 Missing character: There is no ɑ in font [lmroman12-regular]:mapping=tex-text;!
 Missing character: There is no ː in font [lmroman12-regular]:mapping=tex-text;!
@@ -1034,14 +1045,14 @@ Missing character: There is no ɪ in font [lmroman12-regular]:mapping=tex-text;!
 Missing character: There is no ˈ in font [lmroman12-regular]:mapping=tex-text;!
 Missing character: There is no ɪ in font [lmroman12-regular]:mapping=tex-text;!
 
-Overfull \hbox (51.07764pt too wide) in paragraph at lines 258--267
+Overfull \hbox (51.07764pt too wide) in paragraph at lines 272--281
 [] 
  []
 
 Missing character: There is no ˈ in font [lmroman12-regular]:mapping=tex-text;!
 Missing character: There is no ʊ in font [lmroman12-regular]:mapping=tex-text;!
 
-Overfull \hbox (126.32396pt too wide) in paragraph at lines 272--281
+Overfull \hbox (126.32396pt too wide) in paragraph at lines 286--295
 [] 
  []
 
@@ -1077,13 +1088,18 @@ Missing character: There is no ɪ in font [lmroman12-regular]:mapping=tex-text;!
 Missing character: There is no ˈ in font [lmroman12-regular]:mapping=tex-text;!
 Missing character: There is no ɪ in font [lmroman12-regular]:mapping=tex-text;!
 
-Overfull \hbox (16.42319pt too wide) in paragraph at lines 296--306
+Overfull \hbox (16.42319pt too wide) in paragraph at lines 310--320
 [] 
  []
 
 Missing character: There is no ˌ in font [lmroman12-regular]:mapping=tex-text;!
 Missing character: There is no ɪ in font [lmroman12-regular]:mapping=tex-text;!
 Missing character: There is no ˈ in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no ɪ in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no ˈ in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no ɜ in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no ː in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no ɪ in font [lmroman12-regular]:mapping=tex-text;!
 
 Underfull \vbox (badness 2351) has occurred while \output is active []
 
@@ -1100,7 +1116,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 Missing character: There is no ʌ in font [lmroman12-regular]:mapping=tex-text;!
 Missing character: There is no ʃ in font [lmroman12-regular]:mapping=tex-text;!
 
-Overfull \hbox (25.8912pt too wide) in paragraph at lines 329--336
+Overfull \hbox (25.8912pt too wide) in paragraph at lines 343--350
 [] 
  []
 
@@ -1195,12 +1211,12 @@ L3 programming layer <2022/08/05>
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 Package rerunfilecheck Info: File `english.out' has not changed.
-(rerunfilecheck)             Checksum: 2D4A1E6739400AFB7FF80BD89FD10CC7;15471.
+(rerunfilecheck)             Checksum: 1706984E7DA735B95A7D06807CCEF2A2;15578.
  ) 
 Here is how much of TeX's memory you used:
  20319 strings out of 411165
  407105 string characters out of 5816116
- 1863380 words of memory out of 5000000
+ 1865380 words of memory out of 5000000
  40539 multiletter control sequences out of 15000+600000
  525840 words of font info for 124 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
