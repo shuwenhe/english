@@ -1,5 +1,5 @@
 SyncTeX Version:1
-Input:1:D:\shuwen\shuwenhe\english\tex\english.tex
+Input:1:C:\shuwen\english\tex\english.tex
 Input:2:C:\CTEX\MiKTeX\tex\latex\ctex\ctexbook.cls
 Input:3:C:\CTEX\MiKTeX\tex\latex\ctex\config\ctexbackend.cfg
 Input:4:C:\CTEX\MiKTeX\tex\latex\l3kernel\expl3.sty
@@ -99,12 +99,12 @@ Input:97:C:\CTEX\MiKTeX\tex\latex\tipa\tipa.sty
 Input:98:C:\CTEX\MiKTeX\tex\latex\base\fontenc.sty
 Input:99:C:\CTEX\MiKTeX\tex\latex\tipa\t3enc.def
 Input:100:C:\CTEX\MiKTeX\tex\latex\tipa\t3cmr.fd
-Input:101:D:\shuwen\shuwenhe\english\tex\english.aux
+Input:101:C:\shuwen\english\tex\english.aux
 Input:102:C:\CTEX\MiKTeX\tex\latex\graphics\color.sty
 Input:103:C:\CTEX\MiKTeX\tex\latex\graphics-cfg\color.cfg
 Input:104:C:\CTEX\MiKTeX\tex\latex\graphics\mathcolor.ltx
-Input:105:D:\shuwen\shuwenhe\english\tex\english.out
-Input:106:D:\shuwen\shuwenhe\english\tex\english.out
+Input:105:C:\shuwen\english\tex\english.out
+Input:106:C:\shuwen\english\tex\english.out
 Input:107:C:\CTEX\MiKTeX\tex\latex\amsfonts\umsa.fd
 Input:108:C:\CTEX\MiKTeX\tex\latex\amsfonts\umsb.fd
 Input:109:C:\CTEX\MiKTeX\tex\latex\wasysym\uwasy.fd
@@ -114,7 +114,7 @@ Unit:1
 X Offset:0
 Y Offset:0
 Content:
-!6170
+!6134
 {1
 [1,87:4736287,52685372:30692631,47949085,0
 (1,87:4736287,4736287:0,0,0
@@ -199,8 +199,8 @@ h1,87:3729360,52685372:31699558,0,0
 ]
 !1956
 }1
-Input:110:D:\shuwen\shuwenhe\english\tex\english.toc
-!62
+Input:110:C:\shuwen\english\tex\english.toc
+!53
 {2
 [110,17:4736287,52685372:30692631,47949085,0
 [110,17:4736287,4736287:0,0,0
@@ -34727,8 +34727,8 @@ g1,507:35428918,52685372
 ]
 !18240
 }24
-Input:111:D:\shuwen\shuwenhe\english\tex\english.aux
-!64
+Input:111:C:\shuwen\english\tex\english.aux
+!55
 Postamble:
 Count:34539
 !27
