@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 23.4) (preloaded format=xelatex 2023.6.13)  26 JUL 2023 09:06
+This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 23.4) (preloaded format=xelatex 2023.6.13)  26 JUL 2023 09:08
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1074,6 +1074,7 @@ Missing character: There is no ˌ in font [lmroman12-regular]:mapping=tex-text;!
 Missing character: There is no ʊ in font [lmroman12-regular]:mapping=tex-text;!
 Missing character: There is no ˈ in font [lmroman12-regular]:mapping=tex-text;!
 Missing character: There is no ʊ in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no ɪ in font [lmroman12-regular]:mapping=tex-text;!
 Missing character: There is no ˈ in font [lmroman12-regular]:mapping=tex-text;!
 Missing character: There is no ɒ in font [lmroman12-regular]:mapping=tex-text;!
 Missing character: There is no ˌ in font [lmroman12-regular]:mapping=tex-text;!
@@ -1086,17 +1087,13 @@ Missing character: There is no ɪ in font [lmroman12-regular]:mapping=tex-text;!
 Missing character: There is no ˈ in font [lmroman12-regular]:mapping=tex-text;!
 Missing character: There is no ɪ in font [lmroman12-regular]:mapping=tex-text;!
 
-Overfull \hbox (16.42319pt too wide) in paragraph at lines 310--320
+Overfull \hbox (16.42319pt too wide) in paragraph at lines 310--321
 [] 
  []
 
 Missing character: There is no ˌ in font [lmroman12-regular]:mapping=tex-text;!
 Missing character: There is no ɪ in font [lmroman12-regular]:mapping=tex-text;!
 Missing character: There is no ˈ in font [lmroman12-regular]:mapping=tex-text;!
-
-Underfull \vbox (badness 2351) has occurred while \output is active []
-
-
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1109,7 +1106,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 Missing character: There is no ʌ in font [lmroman12-regular]:mapping=tex-text;!
 Missing character: There is no ʃ in font [lmroman12-regular]:mapping=tex-text;!
 
-Overfull \hbox (25.8912pt too wide) in paragraph at lines 343--350
+Overfull \hbox (25.8912pt too wide) in paragraph at lines 344--351
 [] 
  []
 
