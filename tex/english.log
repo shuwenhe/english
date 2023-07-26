@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 23.4) (preloaded format=xelatex 2023.6.13)  26 JUL 2023 15:48
+This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 23.4) (preloaded format=xelatex 2023.6.13)  26 JUL 2023 17:12
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1033,7 +1033,10 @@ Missing character: There is no ɒ in font [lmroman12-regular]:mapping=tex-text;!
 Missing character: There is no ɪ in font [lmroman12-regular]:mapping=tex-text;!
 Missing character: There is no ˈ in font [lmroman12-regular]:mapping=tex-text;!
 Missing character: There is no ɪ in font [lmroman12-regular]:mapping=tex-text;!
-[15
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [15
 
 ]
 Missing character: There is no ˈ in font [lmroman12-regular]:mapping=tex-text;!
@@ -1046,13 +1049,9 @@ Missing character: There is no ɪ in font [lmroman12-regular]:mapping=tex-text;!
 Missing character: There is no ˈ in font [lmroman12-regular]:mapping=tex-text;!
 Missing character: There is no ɪ in font [lmroman12-regular]:mapping=tex-text;!
 
-Overfull \hbox (51.07764pt too wide) in paragraph at lines 273--282
+Overfull \hbox (51.07764pt too wide) in paragraph at lines 274--283
 [] 
  []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1066,7 +1065,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 Missing character: There is no ˈ in font [lmroman12-regular]:mapping=tex-text;!
 Missing character: There is no ʊ in font [lmroman12-regular]:mapping=tex-text;!
 
-Overfull \hbox (126.32396pt too wide) in paragraph at lines 288--297
+Overfull \hbox (126.32396pt too wide) in paragraph at lines 289--298
 [] 
  []
 
@@ -1093,7 +1092,7 @@ Missing character: There is no ɪ in font [lmroman12-regular]:mapping=tex-text;!
 Missing character: There is no ˈ in font [lmroman12-regular]:mapping=tex-text;!
 Missing character: There is no ɪ in font [lmroman12-regular]:mapping=tex-text;!
 
-Overfull \hbox (16.42319pt too wide) in paragraph at lines 313--325
+Overfull \hbox (16.42319pt too wide) in paragraph at lines 314--326
 [] 
  []
 
@@ -1116,7 +1115,7 @@ Missing character: There is no ˈ in font [lmroman12-regular]:mapping=tex-text;!
 Missing character: There is no ʌ in font [lmroman12-regular]:mapping=tex-text;!
 Missing character: There is no ʃ in font [lmroman12-regular]:mapping=tex-text;!
 
-Overfull \hbox (25.8912pt too wide) in paragraph at lines 348--355
+Overfull \hbox (25.8912pt too wide) in paragraph at lines 350--357
 [] 
  []
 
@@ -1125,10 +1124,6 @@ Missing character: There is no ɜ in font [lmroman12-regular]:mapping=tex-text;!
 Missing character: There is no ː in font [lmroman12-regular]:mapping=tex-text;!
 Missing character: There is no ˈ in font [lmroman12-regular]:mapping=tex-text;!
 Missing character: There is no ɪ in font [lmroman12-regular]:mapping=tex-text;!
-
-Underfull \vbox (badness 1701) has occurred while \output is active []
-
-
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1208,13 +1203,13 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 Package rerunfilecheck Info: File `english.out' has not changed.
-(rerunfilecheck)             Checksum: FB0644020BBB216CA45081C7F67D0604;15415.
+(rerunfilecheck)             Checksum: 5BF5100E13A31ED960CB61BA2ADCFEDE;15493.
  ) 
 Here is how much of TeX's memory you used:
- 20192 strings out of 411427
- 411504 string characters out of 5823212
+ 20225 strings out of 411427
+ 413517 string characters out of 5823212
  1863290 words of memory out of 5000000
- 40125 multiletter control sequences out of 15000+600000
+ 40158 multiletter control sequences out of 15000+600000
  524732 words of font info for 121 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  89i,11n,108p,1207b,536s stack positions out of 10000i,1000n,20000p,200000b,200000s
