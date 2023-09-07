@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 23.4) (preloaded format=xelatex 2023.6.13)  7 SEP 2023 11:06
+This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 23.4) (preloaded format=xelatex 2023.6.13)  7 SEP 2023 11:37
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1029,7 +1029,7 @@ Missing character: There is no ɪ in font [lmroman12-regular]:mapping=tex-text;!
 Missing character: There is no ˈ in font [lmroman12-regular]:mapping=tex-text;!
 Missing character: There is no ɪ in font [lmroman12-regular]:mapping=tex-text;!
 
-Overfull \hbox (51.07764pt too wide) in paragraph at lines 230--239
+Overfull \hbox (51.07764pt too wide) in paragraph at lines 231--240
 [] 
  []
 
@@ -1054,10 +1054,11 @@ Missing character: There is no ɪ in font [lmroman12-regular]:mapping=tex-text;!
 Missing character: There is no ɪ in font [lmroman12-regular]:mapping=tex-text;!
 Missing character: There is no ʃ in font [lmroman12-regular]:mapping=tex-text;!
 
-Overfull \hbox (147.2352pt too wide) in paragraph at lines 246--256
+Overfull \hbox (147.2352pt too wide) in paragraph at lines 247--257
 [] 
  []
 
+Missing character: There is no ː in font [lmroman12-regular]:mapping=tex-text;!
 Missing character: There is no ˈ in font [lmroman12-regular]:mapping=tex-text;!
 Missing character: There is no ɒ in font [lmroman12-regular]:mapping=tex-text;!
 Missing character: There is no ɪ in font [lmroman12-regular]:mapping=tex-text;!
@@ -1068,10 +1069,6 @@ Missing character: There is no ʊ in font [lmroman12-regular]:mapping=tex-text;!
 Missing character: There is no ˈ in font [lmroman12-regular]:mapping=tex-text;!
 Missing character: There is no ɒ in font [lmroman12-regular]:mapping=tex-text;!
 Missing character: There is no ɪ in font [lmroman12-regular]:mapping=tex-text;!
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1096,7 +1093,7 @@ Missing character: There is no ɪ in font [lmroman12-regular]:mapping=tex-text;!
 Missing character: There is no ˈ in font [lmroman12-regular]:mapping=tex-text;!
 Missing character: There is no ʊ in font [lmroman12-regular]:mapping=tex-text;!
 
-Overfull \hbox (16.42319pt too wide) in paragraph at lines 272--287
+Overfull \hbox (16.42319pt too wide) in paragraph at lines 281--296
 [] 
  []
 
@@ -1104,7 +1101,7 @@ Missing character: There is no ˌ in font [lmroman12-regular]:mapping=tex-text;!
 Missing character: There is no ɪ in font [lmroman12-regular]:mapping=tex-text;!
 Missing character: There is no ˈ in font [lmroman12-regular]:mapping=tex-text;!
 
-Underfull \vbox (badness 1173) has occurred while \output is active []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
@@ -1119,7 +1116,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 Missing character: There is no ʌ in font [lmroman12-regular]:mapping=tex-text;!
 Missing character: There is no ʃ in font [lmroman12-regular]:mapping=tex-text;!
 
-Overfull \hbox (25.8912pt too wide) in paragraph at lines 311--318
+Overfull \hbox (25.8912pt too wide) in paragraph at lines 320--327
 [] 
  []
 
@@ -1216,7 +1213,7 @@ Package rerunfilecheck Info: File `english.out' has not changed.
 Here is how much of TeX's memory you used:
  20225 strings out of 411427
  413517 string characters out of 5823212
- 1863290 words of memory out of 5000000
+ 1864290 words of memory out of 5000000
  40158 multiletter control sequences out of 15000+600000
  524732 words of font info for 121 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
