@@ -32,7 +32,7 @@
 \contentsline {section}{\numberline {24}x}{16}{section.0.2.24}%
 \contentsline {section}{\numberline {25}y}{16}{section.0.2.25}%
 \contentsline {section}{\numberline {26}z}{16}{section.0.2.26}%
-\contentsline {section}{\numberline {27}Category}{16}{section.0.2.27}%
+\contentsline {section}{\numberline {27}}{16}{section.0.2.27}%
 \contentsline {subsection}{\numberline {27.1}Month}{16}{subsection.0.2.27.1}%
 \contentsline {subsection}{\numberline {27.2}Level}{16}{subsection.0.2.27.2}%
 \contentsline {chapter}{\numberline {第三章\hspace {.3em}}grammar}{17}{chapter.0.3}%
